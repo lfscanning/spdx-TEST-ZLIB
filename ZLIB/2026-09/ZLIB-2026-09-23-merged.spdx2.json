@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-23T21:13:14Z",
+        "created": "2026-09-23T21:19:57Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -67,12 +67,12 @@
             "name": "Zlib-possibility"
         }
     ],
-    "name": "/tmp/tmpzv1e29xf/code",
+    "name": "/tmp/tmpijwlz56q/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "https://github.com/lfscanning/spdx-TEST-ZLIB/ZLIB/2026-09/TEST-ZLIB-ZLIB-full/cb071a73-1efc-4870-b4b3-74ce5ffc1d4a",
+    "documentNamespace": "https://github.com/lfscanning/spdx-TEST-ZLIB/ZLIB/2026-09/TEST-ZLIB-ZLIB-full/c29f1b54-8ed1-4e9f-bc49-2f221ec8e0be",
     "packages": [
         {
-            "SPDXID": "SPDXRef-Filesystem-6c6e22f141136072",
+            "SPDXID": "SPDXRef-Filesystem-5c5c00aa0bc42a2d",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "LicenseRef-No-license-found",
@@ -6346,11 +6346,11 @@
     "relationships": [
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-6c6e22f141136072",
+            "relatedSpdxElement": "SPDXRef-Filesystem-5c5c00aa0bc42a2d",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-6c6e22f141136072",
+            "spdxElementId": "SPDXRef-Filesystem-5c5c00aa0bc42a2d",
             "relatedSpdxElement": "SPDXRef-TEST-ZLIB-ZLIB-zlib",
             "relationshipType": "CONTAINS"
         },
