@@ -1,0 +1,71 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-09-23T18:59:02Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "No license found",
+            "licenseId": "LicenseRef-No-license-found"
+        }
+    ],
+    "name": "/tmp/tmp4x101b2d/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp4x101b2d/code-61178285-e079-4cd5-91e0-48e854dad1a3",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-cd4f31780a57cffd",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-No-license-found",
+            "licenseDeclared": "Zlib",
+            "name": "TEST-ZLIB.ZLIB",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project TEST-ZLIB",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-TEST-ZLIB-ZLIB-zlib",
+            "comment": "This package was added to the Trivy analysis for the zlib by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/madler/zlib/archive/767c4c947852e143f582c85f14cf573411df1b35.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/madler/zlib@767c4c947852e143f582c85f14cf573411df1b35",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-No-license-found",
+            "licenseDeclared": "Zlib",
+            "name": "zlib",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project TEST-ZLIB",
+            "supplier": "Organization: Linux Foundation Project TEST-ZLIB",
+            "versionInfo": "767c4c947852e143f582c85f14cf573411df1b35"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-cd4f31780a57cffd",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-cd4f31780a57cffd",
+            "relatedSpdxElement": "SPDXRef-TEST-ZLIB-ZLIB-zlib",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
