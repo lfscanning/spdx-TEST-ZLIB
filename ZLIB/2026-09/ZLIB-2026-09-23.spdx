@@ -1,0 +1,3153 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_madler-2026-09-23.zip_1790189776.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-09-23T18:56:16Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: madler-2026-09-23.zip
+PackageFileName: madler-2026-09-23.zip
+SPDXID: SPDXRef-upload2408
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: f93faf36bdc1f0eeb3b615f1d7927e1f264fbb8f
+PackageChecksum: SHA1: c51f340393ae2e9fd38b7da905ead81b057b144f
+PackageChecksum: SHA256: 334755053a943172ec25f3fd5577bd3ae25fd135376bbc2bc77b5fe0e67babdf
+PackageChecksum: MD5: 273d3fbe7dfd99de4bfb4e5c56b9fc6c
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2408
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/README-cmake.md
+SPDXID: SPDXRef-item15216356
+FileChecksum: SHA1: 54052e52eb92f32bb5ff7af65a3c7372390a78cb
+FileChecksum: SHA256: 616c249b98018fae144fb3a5b8e1b753019c92142f2032c7326c0b0a6f981828
+FileChecksum: MD5: eb6e8ea3cd8a875197482fcbeb5ba89f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/compress.c
+SPDXID: SPDXRef-item15216357
+FileChecksum: SHA1: 8fb0681eaf8d72b8a0aee60a62bb2d9d9e226672
+FileChecksum: SHA256: 41f1c7ad886012571cd481a2b1b6a83812e5125e90d995e298fde34d6c015614
+FileChecksum: MD5: 268d6d146a1d8847598e85044234cc71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly, Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/gzread.c
+SPDXID: SPDXRef-item15216358
+FileChecksum: SHA1: 1df555ec2815619f313dff92e580317841013958
+FileChecksum: SHA256: 4c93938dd0002cb5ef501ea5e8cb67b0b41e23e153b40a9f6476e41c248c033b
+FileChecksum: MD5: 85d5d5379c2a6f721916328bd0a2ee9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2004-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/inffast.c
+SPDXID: SPDXRef-item15216359
+FileChecksum: SHA1: 179cb354daa1e4e35424f6cb60dc68a08bc85932
+FileChecksum: SHA256: f96787a11bb7131ffd2221fb40db27f6a5a1dfb12f59c0bc388807010749c34a
+FileChecksum: MD5: 86cb3766d77578a1be2d6fae0021b2a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/Makefile
+SPDXID: SPDXRef-item15216360
+FileChecksum: SHA1: b04f62dd1002b9ca07068c90651432dec60029f3
+FileChecksum: SHA256: ef23b08ce01239843f1ded3f373bfc432627a477d62f945cbf63b2ac03db118a
+FileChecksum: MD5: 673574278a68806348d4b57c090f38d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/LICENSE
+SPDXID: SPDXRef-item15216361
+FileChecksum: SHA1: 58b8a933b18e2476d289982426a4dfde471133bb
+FileChecksum: SHA256: e32ff4e00d9d94930537635291da39e7e612703334bf6fde8c7f1686fe8a45a2
+FileChecksum: MD5: 66e4e749bb11d80fc7ba510a9ce99534
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright notice:
+(C) 1995-2026 Jean-loup Gailly and Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zutil.h
+SPDXID: SPDXRef-item15216362
+FileChecksum: SHA1: 425b49ec39a325f459f13a303c7f275f08f7b065
+FileChecksum: SHA256: a12243cc6d338ffad0c8e3500fbc05bc7fdcdc25a469393b1c2f7e5df307fff3
+FileChecksum: MD5: e3889a21b762c891d757a6ba60f5cbad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly, Mark Adler
+copyright[]; extern const char inflate_copyright[]; extern const char inflate9_copyright[]; </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/inftrees.h
+SPDXID: SPDXRef-item15216363
+FileChecksum: SHA1: 9df6f523689993bf98b7c33adc6bd2d70edd1b3c
+FileChecksum: SHA256: 97897f41e5d55b426b106c230111e99fec44cd5197a71e6a3750d2e7e17b16bc
+FileChecksum: MD5: ff817129990a759cac79ba87244d1208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/inffast.h
+SPDXID: SPDXRef-item15216364
+FileChecksum: SHA1: b5939a78a13c23bb96e51c2f6fbee67192e29506
+FileChecksum: SHA256: 05cc5dc9ff1da7b8b52a4bd8bda0d8a5c236a2f39efe84b941516ea13857e6c5
+FileChecksum: MD5: 6c907e4d7c65aff48183101b66a6133b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2003, 2010 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/gzclose.c
+SPDXID: SPDXRef-item15216365
+FileChecksum: SHA1: 9715b78eb27d0ebb7d826ce441b3bbc0e08b467d
+FileChecksum: SHA256: 35ea6e991a63095f797d8c4cc25817fac7a7155c2ba7dcdbbf648f7871c7ea40
+FileChecksum: MD5: 83049e4eaab1319f7ed94f15e7de5c4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2004, 2010 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/inflate.h
+SPDXID: SPDXRef-item15216366
+FileChecksum: SHA1: df13e5879b6d3c70f59c3e7fec6a1119fad25b38
+FileChecksum: SHA256: e6a43bd0e24ab2cf5fa1dca630859e9a2f6a721f033f75faf179f5c0299e4fe2
+FileChecksum: MD5: dd7f325c5348b74bd74e6dbea2f5b8f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2019 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/README
+SPDXID: SPDXRef-item15216367
+FileChecksum: SHA1: 2ba519a17b62a880eb8127ddcabc607a7cb7a138
+FileChecksum: SHA256: 717b18319152b2682049a3cafb9c17d30128cdc800f92442ef1b91fb4787f615
+FileChecksum: MD5: 8be6eb6cae165107689d07cd40efcb61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright notice:
+(C) 1995-2026 Jean-loup Gailly and Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zlib.3
+SPDXID: SPDXRef-item15216368
+FileChecksum: SHA1: 49bfb2d7f8c01693076b5dad66ff5b861cdff665
+FileChecksum: SHA256: bb8f3e1e80e4a05ca5a5c504e809b973b4e1532002f6847ca98345124a0aa3ed
+FileChecksum: MD5: 8b82b8d31a24484b721351cf391ae53f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly and Mark Adler LP This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software. LP Permission is granted to anyone to use this software for any </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/Makefile.in
+SPDXID: SPDXRef-item15216369
+FileChecksum: SHA1: 76d8e9ca96826dff501e8a61fddcfea9a715e4c6
+FileChecksum: SHA256: 1701a00b79269d6b6e4bb65447db7d7fa0cc2512f5a5627ca117803cbf0e76fb
+FileChecksum: MD5: 28bd46c716df93d874902d49c68957f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly, Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/inflate.c
+SPDXID: SPDXRef-item15216370
+FileChecksum: SHA1: b613b4ec5a2451d2a30eaeed87a801d36a21f1f2
+FileChecksum: SHA256: 90221ea7d762e7044057f6ad5013e969086c6ba3d3051716b7aa786d7a6362ec
+FileChecksum: MD5: e7d1450627ccc5f39c47162c5981b235
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.github/workflows/fuzz.yml
+SPDXID: SPDXRef-item15216373
+FileChecksum: SHA1: b7fb9a5c522dc420dbb48e05015ca7efd5190a22
+FileChecksum: SHA256: 05f35f46b878f08728fcfd10bbc647d077c62c61f96bb9a280aadd0cdc24036a
+FileChecksum: MD5: 643893307aa08420b716f0846090f55f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.github/workflows/c-std.yml
+SPDXID: SPDXRef-item15216374
+FileChecksum: SHA1: 3f430be7686955521e827ec235f2ced4af0a0cac
+FileChecksum: SHA256: 0a613d8ce69153c58a7968dcc61a8da340acdcab7fd8f142bf295f658624008b
+FileChecksum: MD5: a169a48e0819485ee3e03f3f1b65144f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.github/workflows/contribs.yml
+SPDXID: SPDXRef-item15216375
+FileChecksum: SHA1: f1dbddea8a4d1e381f0bcdbbf63698fd90a0158e
+FileChecksum: SHA256: 3ca2fa21d7c2a7106571008b11bd802c4c3cf19e68f9b9f539281bd642612387
+FileChecksum: MD5: 7a8e3d32758a2aef88b029b2153bf1ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.github/workflows/cmake.yml
+SPDXID: SPDXRef-item15216376
+FileChecksum: SHA1: 407cddb8a9b20d1ed99df9e781fef41f36684262
+FileChecksum: SHA256: b7b7133fbace72db64f894602ac6528a9b18a102df764d7192f5487f3246b81d
+FileChecksum: MD5: 27de3ad9caca081b8ed349a5374680ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.github/workflows/others.yml
+SPDXID: SPDXRef-item15216377
+FileChecksum: SHA1: 2c961aefc4be33ba465747b4eaa044560e25d93d
+FileChecksum: SHA256: e17fa3d198242556101f09dcfbcbe7d64b2837d262a596c05f1dc8b6b86e5823
+FileChecksum: MD5: f18e9c87d508a4100b74ad1f411af9d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.github/workflows/msys-cygwin.yml
+SPDXID: SPDXRef-item15216378
+FileChecksum: SHA1: e5d07846f488132f73b5e137e5661ff4c526995b
+FileChecksum: SHA256: f0c4ea84e36135365fce8511d88f6db7622f2e9189447d7e246bf309c107dcda
+FileChecksum: MD5: 7896167256772f3063b778e47dcc209c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.github/workflows/configure.yml
+SPDXID: SPDXRef-item15216379
+FileChecksum: SHA1: 46fbfbd4b049a5a4cee04df36c648c8b49dbcd5f
+FileChecksum: SHA256: 510797fd4f9fda10bf3a5533a13d72cdf3142cc69abe6a4afe2e0a3d26f1b51b
+FileChecksum: MD5: d59c100db72e911d628deb893984fe02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/gzguts.h
+SPDXID: SPDXRef-item15216380
+FileChecksum: SHA1: 600a8cc1f44b53b26e2bb066decc0dd3c047166e
+FileChecksum: SHA256: 086269ba0d6f62d0d8f5483491e3c2a1f753928aa547f7669a5450fd26015a93
+FileChecksum: MD5: 4a736f96fa29ca650b381d1edcbb2fbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2004-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/gcc_gvmat64/gvmat64.S
+SPDXID: SPDXRef-item15216383
+FileChecksum: SHA1: 7ebbff524637b7cb2046c3e3aa1c6de167f59f15
+FileChecksum: SHA256: 2c38406bf03c41686cc016df0a8798726d02dcba956e02b0bc9c06bc057ea3f0
+FileChecksum: MD5: dc17106b4061514337b7c4735a9b43c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1995-2010 Jean-loup Gailly, Brian Raiter and Gilles Vollant. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/gcc_gvmat64/CMakeLists.txt
+SPDXID: SPDXRef-item15216384
+FileChecksum: SHA1: a378d2cdcca0f313305255edf237e17820142850
+FileChecksum: SHA256: 1ffdea5bd3ca14c839e5e0fbf1b5a24326d31fecb6ecb92aa58ab0c821ca1a4b
+FileChecksum: MD5: 73f06b8218f2b7039d8dea1617f6f784
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/read.adb
+SPDXID: SPDXRef-item15216386
+FileChecksum: SHA1: a5a6682ef169a7429d9bf9f8acbda6ffb756fec4
+FileChecksum: SHA256: fa5b989aef0c5715a3fcb15de93985f7f10aeb0a7f5716745c95ed820eb9af9c
+FileChecksum: MD5: a223bf66e23cc79eba08eadd40ee269b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2003 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/zlib-streams.ads
+SPDXID: SPDXRef-item15216387
+FileChecksum: SHA1: 6f98fc8eab742328270dae41b3320b4756977ae6
+FileChecksum: SHA256: 2dae2309e863a6ea44731773aabac5fd5f5436b6dcfcf53fd7e6389556ca8c3c
+FileChecksum: MD5: 5ebbb8f65bede7967c9500c9863d5376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2003 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/compile_helper.cmake
+SPDXID: SPDXRef-item15216389
+FileChecksum: SHA1: 64e6bd24c2d9e2d95ad38b83cb04679bbe9ba028
+FileChecksum: SHA256: 676aaa3dbc4ab1b5d1c61e5807645732c6bf1a991cf004abd30e301fd35ffb9a
+FileChecksum: MD5: 2a3d0fc9e4888b8dec920cc0b1eee29e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/static_link_helper.cmake
+SPDXID: SPDXRef-item15216390
+FileChecksum: SHA1: aa3cf634c5f85ed4828f7d0496cf58fb9f109968
+FileChecksum: SHA256: 04cba492e92bd6bfb35632d1c2106f0647a83fb2205daf73563413853ec19f38
+FileChecksum: MD5: 7f2f8584467089eaa6bb63d528a9adb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/shared_link_helper.cmake
+SPDXID: SPDXRef-item15216391
+FileChecksum: SHA1: 5d2e7e72709b2e7697959bf630408fe42daf4a28
+FileChecksum: SHA256: 4172a24be91053c016ae4a589224ddd701d07c4a768b04382298013c8a763ff5
+FileChecksum: MD5: d6375fb09e89bdbd8e61f51ec887e145
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/binder_helper.cmake
+SPDXID: SPDXRef-item15216392
+FileChecksum: SHA1: a911774072126a8dfdc87aa20a8e3ef0d409b99e
+FileChecksum: SHA256: c7a0f187f9821838ab6a4b0df249dd79e173ab8df4ec0334f9ad78550f7043ee
+FileChecksum: MD5: 066599fc0381c031c9aa1d1a7147da04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/exe_link_helper.cmake
+SPDXID: SPDXRef-item15216393
+FileChecksum: SHA1: 747e10ea0596e3b674cb00f4149facca20836f41
+FileChecksum: SHA256: 04ca7de526adf70635aa796a1b16be74db38d5134cc5300b04ee4302bd8ec924
+FileChecksum: MD5: 4243b0d13efe0c4cce81d5d9033925fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/Modules/CMakeADAInformation.cmake
+SPDXID: SPDXRef-item15216395
+FileChecksum: SHA1: 7992af41a1d698b002ce170afe80941c29b502e3
+FileChecksum: SHA256: 793e1df97f0fd8966b5bb165bcd0aff692eea90c92f0bdf1978b76392d082aec
+FileChecksum: MD5: 63234fe64e815bf0248503d934060827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/Modules/CMakeADACompiler.cmake.in
+SPDXID: SPDXRef-item15216396
+FileChecksum: SHA1: e70dc18b012daa018476b6ceb4656d8993b1b428
+FileChecksum: SHA256: 70bca3b0b3d0c3c181049b912dc53e075505f4859ad20885f729ee933136cc88
+FileChecksum: MD5: 7d23c4d0ecf4601a3f36c6067d9c9400
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/Modules/CMakeDetermineADACompiler.cmake
+SPDXID: SPDXRef-item15216397
+FileChecksum: SHA1: 7cdbc5b816171da2a19a2b49455c63c2567e0076
+FileChecksum: SHA256: 5cd42895a8562103325c49bf962882e3f2e11f948257de600dee386fcf5c51ee
+FileChecksum: MD5: a097c911611b0c130902482aa94fa27d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/cmake/Modules/CMakeTestADACompiler.cmake
+SPDXID: SPDXRef-item15216398
+FileChecksum: SHA1: 5f09bf99f1654b2adf2408408074504a51837b9b
+FileChecksum: SHA256: d3a9ab2fcad467a177a7221be5c621be297318735432d47df72ccf70daf7a4b2
+FileChecksum: MD5: 3cfb6c33b6549d1782fbbce25c6385ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/test.adb
+SPDXID: SPDXRef-item15216399
+FileChecksum: SHA1: 53c545919cf07abba7e665ee391005e554d08da9
+FileChecksum: SHA256: ad2b2f61e0603044065887849e2cca394cfe37d3ba08d3cd368f670462b9296e
+FileChecksum: MD5: 259320b447cd163e3cab1cb7f9bf3dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2003 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/buffer_demo.adb
+SPDXID: SPDXRef-item15216400
+FileChecksum: SHA1: 1d8fba99362b0973535a759097f7893d4551c4e7
+FileChecksum: SHA256: 469cf566a6965767fee6b987a239ed8cedcc66614940d45a9b434331fbb435ce
+FileChecksum: MD5: cd14a97dd8a0613bb1244a68c0c764d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2004 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/zlib-streams.adb
+SPDXID: SPDXRef-item15216401
+FileChecksum: SHA1: 70f5981b0c3c5de023ea3485ea7e81231a42ce7f
+FileChecksum: SHA256: f45988e2bac76eb25a0dc981f46576e7432c35dde1790bbc2b650f0090b7fa72
+FileChecksum: MD5: 5d67ffc3a8cbe706d47d25f8124c72dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2003 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/readme.txt
+SPDXID: SPDXRef-item15216402
+FileChecksum: SHA1: 0760f5720f87f64ad9f5eb5376480c86959cf306
+FileChecksum: SHA256: 7efc81ce3a1460959eb9dbd58c3ce4bd8b6aa462ed740bf89f51189ab8508b82
+FileChecksum: MD5: adf6ab30d1cfe67466dcc541beae55b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/zlib.ads
+SPDXID: SPDXRef-item15216403
+FileChecksum: SHA1: 6d1eafc73db78347db55beeb4e75a0d027fd5f55
+FileChecksum: SHA256: 9340f4cfaeafca0efce7a649ef5e9b42a8bcafc5dbdc4abff41f9a19ee08c3cc
+FileChecksum: MD5: f429ac548874fe6c4ea738ca30ca4f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-or-later
+LicenseInfoInFile: gnu-javamail-exception
+FileCopyrightText: <text> Copyright (C) 2002-2004 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/zlib-thin.ads
+SPDXID: SPDXRef-item15216404
+FileChecksum: SHA1: faf47e35174e1e76edb85ea602779084e535df69
+FileChecksum: SHA256: 631ef170bde16c3ca8d412b54a0e519815b80197d208f8f393e6fe017bb0968e
+FileChecksum: MD5: 92b08ae0238ed5046f1a84959e6e8a54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2003 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/test/CMakeLists.txt
+SPDXID: SPDXRef-item15216406
+FileChecksum: SHA1: 303411bf53ce93ffdc3d31661545a42cf7a6e4d1
+FileChecksum: SHA256: 32e1b056d17730c984973d96748886886a0a4555bf5cc351dc52cee253771376
+FileChecksum: MD5: 0ad79ec838f665768271e9b031de4c5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/zlib.adb
+SPDXID: SPDXRef-item15216407
+FileChecksum: SHA1: b2bfa2ed9034d53cd4998e68205bde52efbb56b4
+FileChecksum: SHA256: 8168ac962cd775e1f3dc35dc95a038eb370034c9b1f8cb1511d4bcd6b297a1f5
+FileChecksum: MD5: e2ea4015bf515dbd8c8edd91e89008fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2004 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/zlib-thin.adb
+SPDXID: SPDXRef-item15216408
+FileChecksum: SHA1: 1630a8a7a7d4b190226f47f3ac0c4d025cf89a94
+FileChecksum: SHA256: d5f8c5344b094fb98eb2c200c9df3691c35bedaea17dfe63de4f309923e8930c
+FileChecksum: MD5: 83058f10aa198ef70e48c4da5c2b5dbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2003 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/mtest.adb
+SPDXID: SPDXRef-item15216409
+FileChecksum: SHA1: f1c968146ba1a8f07c7070a2af72ab8a84c82e3d
+FileChecksum: SHA256: 41b6f31684770334afdc4375871eb1408542f37a823a073556fdbfdb63753160
+FileChecksum: MD5: 20f2b8d64f3507ea0eb67bf4be048599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.LICENSE
+FileCopyrightText: <text> Copyright (C) 2002-2003 Dmitriy Anisimkov -- </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/CMakeLists.txt
+SPDXID: SPDXRef-item15216410
+FileChecksum: SHA1: e19eefc455d387c10a6fe9becc4e0d93e99e767a
+FileChecksum: SHA256: 5a034beb25d0eb1b9607ddeba2da092dd647eb8ffb41ccfe401dae4dbb5a5a52
+FileChecksum: MD5: 19bd59e5e8f5f51ca189d396c67f8c46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/ada/zlib.gpr
+SPDXID: SPDXRef-item15216411
+FileChecksum: SHA1: c36c2cf069e930eb81ee0c89bfe70c20c8d0511a
+FileChecksum: SHA256: 859bb69dce38dbe9dca06753cf7ae7bd16d48f4fece8b87582dab8e30681d3de
+FileChecksum: MD5: 38044e8f5f88e1f70ade036779d56ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/LICENSE_1_0.txt
+SPDXID: SPDXRef-item15216413
+FileChecksum: SHA1: 892b34f7865d90a6f949f50d95e49625a10bc7f0
+FileChecksum: SHA256: 36266a8fd073568394cb81cdb2b124f7fdae2c64c1a7ed09db34b4d22efa2951
+FileChecksum: MD5: 81543b22c36f10d20ac9712f8d80ef8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/readme.txt
+SPDXID: SPDXRef-item15216414
+FileChecksum: SHA1: 31b80b21187ebefad2a1c334a452e91051cc52d7
+FileChecksum: SHA256: 4b4443928397c819105596997474345256223cc38860624f3e635addb61ef115
+FileChecksum: MD5: 75928fc4724c4197a772250e42a12620
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> Copyright (c) Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/DotZLib.cs
+SPDXID: SPDXRef-item15216416
+FileChecksum: SHA1: 3d15f397ec51ab8cc7de3c10781628bc7e34b217
+FileChecksum: SHA256: c1c2c9ff0518a3899f3e198f207f644c7482024a5a2adfe8b57003f39a57a8d2
+FileChecksum: MD5: f740fb43d7bdbc5d0c69c7e023c66b4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/CircularBuffer.cs
+SPDXID: SPDXRef-item15216417
+FileChecksum: SHA1: 30d692fb6e38aee7e1fcd9f1ae450a905659ff25
+FileChecksum: SHA256: 0abef0d7bb8079313c42b649f20248567c14ac3e890ebf202dd9011a4dfe6e7e
+FileChecksum: MD5: 4397911872e6132400da40772ad44bcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/CodecBase.cs
+SPDXID: SPDXRef-item15216418
+FileChecksum: SHA1: 45ca6cdcb998827a3643475a3e7655d966ef8e01
+FileChecksum: SHA256: b6300b39b09f8720a0846fa44c2e2a4e358a2b9f13dddcfaa968ad1b03e2cf12
+FileChecksum: MD5: e40b047facd45e34099e2628d7bef771
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/GZipStream.cs
+SPDXID: SPDXRef-item15216419
+FileChecksum: SHA1: eccd70a67ec34042e61f1e437180176370b0b153
+FileChecksum: SHA256: f37a6eff01c7c71e91549ae9bfc2b1dd3f55c3c95eb2e978ed9c248242b46c17
+FileChecksum: MD5: 20cd99bacc46ec46b9ea6afbfcd45fd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/UnitTests.cs
+SPDXID: SPDXRef-item15216420
+FileChecksum: SHA1: 96f0a6f0493de8dc8c7e52737d11e4aab741ec2d
+FileChecksum: SHA256: 2956ed07022e94cee2298d0f24a8397c6b2af96cc548c2cd30f1efabc6e3a12f
+FileChecksum: MD5: 08b88d3f9fd29aeafca29d4f7679efa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/DotZLib.csproj
+SPDXID: SPDXRef-item15216421
+FileChecksum: SHA1: 99238c2ad633a641687d722e8c80aaa0a8c8bdd2
+FileChecksum: SHA256: 21606db31dfef6410dd438b73f1db68856eacabcce6c0f0411fc4f17e17001f3
+FileChecksum: MD5: 1549ce82a2662e77a22625f68c0a5d36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/ChecksumImpl.cs
+SPDXID: SPDXRef-item15216422
+FileChecksum: SHA1: 8f6990fae265ac05f682c2a310cd00370c3514f8
+FileChecksum: SHA256: 08721d95d05770039eb19f4c3c952dced9d09a745911eb671bed82129c838f53
+FileChecksum: MD5: 63a87489a867ee70fe2e29ba31587dba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/Inflater.cs
+SPDXID: SPDXRef-item15216423
+FileChecksum: SHA1: 6ecfc1ff1061f19d836474d59bc6c59d1ce1f192
+FileChecksum: SHA256: 22cce1b55a213037c78c94a6e4d81373b03409c3d01ba2aa2c0a2415ba384ed1
+FileChecksum: MD5: 62242099d72161979915d820a2c6e8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/Deflater.cs
+SPDXID: SPDXRef-item15216424
+FileChecksum: SHA1: 7b708e2a2c9a5eb54cf2f360cda1b90e85cee8cf
+FileChecksum: SHA256: 9021976dc201426c8124db3f99ab475e42d470fc52ac4e707189434a671ed853
+FileChecksum: MD5: 499d5f12cfe4a51cb76e05b9d8fb3d4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: <text> © Copyright Henrik Ravn 2004 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib/AssemblyInfo.cs
+SPDXID: SPDXRef-item15216425
+FileChecksum: SHA1: 9f1db1177b2e9a014f72bb3cd80be17133e06d16
+FileChecksum: SHA256: 314afcfb339ea95f5431047b7ab24631b11c3532c7ce5dc2094ed0cf80a7c16d
+FileChecksum: MD5: 23d0d7c18846fc31655b6aa89b7c8038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright("(c) 2004 by Henrik Ravn")] assembly: AssemblyTrademark("")] assembly: AssemblyCulture("")] </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib.build
+SPDXID: SPDXRef-item15216426
+FileChecksum: SHA1: 6f87ba12d786feca35738d0e9ce1f0f03f292881
+FileChecksum: SHA256: b96137097669644ecb9f42cdd3399d1fce9c512788374609303f7e50abf597f0
+FileChecksum: MD5: b1aaa7c52472b3cb4bc9ffd50de23c4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib.sln
+SPDXID: SPDXRef-item15216427
+FileChecksum: SHA1: 4946bdb71b79bff62f9217802b7524010c669408
+FileChecksum: SHA256: a979198c5b8d144c1ac8f993bfb6f4085d135aa58ca9dcf63ebabf52b5c695f7
+FileChecksum: MD5: 46821b590c4a11eab8409b1d3f1c6fca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/dotzlib/DotZLib.chm
+SPDXID: SPDXRef-item15216428
+FileChecksum: SHA1: a1245c21c7e918fa2919fd10bbe5604fc81faf49
+FileChecksum: SHA256: 20d0e3edd57f849143255a7f0df1cd59d41db464a72c0d5ab42846438a729579
+FileChecksum: MD5: 87982cfd077364bc596aecebb7668297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/crc32vx/crc32_vx_hooks.h
+SPDXID: SPDXRef-item15216430
+FileChecksum: SHA1: 877020db7e8fa74abda43caac8505655cd7863fb
+FileChecksum: SHA256: 733a86cdc24d8aad85cda37b775a79ab892bf6610374fabab197d3fb10654b8b
+FileChecksum: MD5: a71e2cb82451866650604c1372ae4b5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/crc32vx/README
+SPDXID: SPDXRef-item15216431
+FileChecksum: SHA1: ba4a2e5d49d5c4132358c89b44ce254fb60db2c6
+FileChecksum: SHA256: 6bac5b0d17364abf205d83572948c0ce1e9cb9dac45bc4b63c4d1df05f80aa62
+FileChecksum: MD5: 889e423769796a1115458cbccca1d6eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/crc32vx/CMakeLists.txt
+SPDXID: SPDXRef-item15216432
+FileChecksum: SHA1: 16b6a81cdd09db7a710fb2da821c3770fb29622e
+FileChecksum: SHA256: 56db89925dad95c7d9627c850fd42b22cba9171c11b01a49aa4a7d9fb64872f8
+FileChecksum: MD5: ac73aa19cb9871970905da4660e76e36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/crc32vx/crc32_vx.c
+SPDXID: SPDXRef-item15216433
+FileChecksum: SHA1: cd438a50f07cec4d159754d1f6ea75e99b695485
+FileChecksum: SHA256: 9bf29461af62b20223b52b489dd27c4617deef9a6cfd5fe6e5128e1b40d9436f
+FileChecksum: MD5: e1cf1963662894ac06180df43e5ede00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/testzlib/CMakeLists.txt
+SPDXID: SPDXRef-item15216435
+FileChecksum: SHA1: 71966e68d118ed75ed04c749a6023d403cc1f5fe
+FileChecksum: SHA256: dafdf0ac3b82df931378b95d41da047c3365b32bbc41aa7ac54b56051596e184
+FileChecksum: MD5: 53e84d3f5200eaa45504075b7909d5a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/testzlib/testzlib.txt
+SPDXID: SPDXRef-item15216436
+FileChecksum: SHA1: 4826bda5e4acc14f0b666f4f71e2d1d32750497c
+FileChecksum: SHA256: d9b1d4d0409352a3e8c48542c05ffc3a5afc880773979596c857c1fd38323d94
+FileChecksum: MD5: 1e46110c70792dbae6d8427eb483f0de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/testzlib/testzlib.c
+SPDXID: SPDXRef-item15216437
+FileChecksum: SHA1: 427be063429e53a8885fa2d286b3108767dc1eb1
+FileChecksum: SHA256: 6b0b5edb1b9582f4a34e3268c8662be3f745db4e085920c9493392272bb92765
+FileChecksum: MD5: 586c7539328382e50d258945170dc995
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/vstudio/readme.txt
+SPDXID: SPDXRef-item15216439
+FileChecksum: SHA1: 48c82a4dfee330a12e09bdd28eb8ebc40d3ed67a
+FileChecksum: SHA256: e971cb0a1b62a0660ea183114ac2109f39a225b31bb1d4ad7da27bdc789f91ff
+FileChecksum: MD5: 5734d9a5d4bb83530a53eb5f176d32c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream2/zstream.h
+SPDXID: SPDXRef-item15216441
+FileChecksum: SHA1: db217a71b3361f0f9b5f87002df2e95601729638
+FileChecksum: SHA256: 68c6513b1bb805d9724f16ac5999692abc97bd2ef6ea5dca5653ba51f3322a71
+FileChecksum: MD5: 6d689cdd81bba0695a1a0928e93f8da0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-MIT-CMU-style
+FileCopyrightText: <text> Copyright (c) 1997 Christian Michelsen Research AS Advanced Computing Fantoftvegen 38, 5036 BERGEN, Norway </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream2/zstream_test.cpp
+SPDXID: SPDXRef-item15216442
+FileChecksum: SHA1: e18a6d55cbbd8b832f8d795530553467e5c74fcf
+FileChecksum: SHA256: f789df183cc58b78751985466380c656308490a9036eb48a7ef79704c3d3f229
+FileChecksum: MD5: d32476bde4e6d5f889092fdff6f8cdb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/zeros.raw
+SPDXID: SPDXRef-item15216444
+FileChecksum: SHA1: 2477f0a2d20cfc6272b91fa36d45c90dcda386ab
+FileChecksum: SHA256: b7b0887089f7af1f6d1e0b4c0a1e8eddd10223b23554299455c6c9be71b653a3
+FileChecksum: MD5: ae1471955182e98038420cdd6a4ad028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/Makefile
+SPDXID: SPDXRef-item15216445
+FileChecksum: SHA1: 6c9c12d0e19be923abf86e2584a23a781d81cb06
+FileChecksum: SHA256: d9d738030464aaae354196c14fd928adf591832fce7d71ac1977c1d8d4923a4b
+FileChecksum: MD5: 82987a599277217cedc2ff78b2c3a63d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/puff.c
+SPDXID: SPDXRef-item15216446
+FileChecksum: SHA1: 191eff0e9e29c24fa844b0a062015cb9dc224e78
+FileChecksum: SHA256: 4247d373526e74d9ec5ae7a81dee201133d0679f500db9726fe6e54963e7d5ae
+FileChecksum: MD5: aedb02bbce61a1d63c668cfe4c75b161
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: <text> Copyright (C) 2002-2013 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/README
+SPDXID: SPDXRef-item15216447
+FileChecksum: SHA1: b5592cb49f7ef080d36b3ee8c7cce8e350a32ee1
+FileChecksum: SHA256: c5b9852fb11e0d6b6e916e5134cf034524d901b95368972133e0381e480eb479
+FileChecksum: MD5: 823894283fb2ea8dd0738fb95b442741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/puff.h
+SPDXID: SPDXRef-item15216448
+FileChecksum: SHA1: ce8b988a404446fc8558b198d3cfeabcad6d16c5
+FileChecksum: SHA256: 969b7be2a930db0cdcb19b0e5b29ae6741f5a8f663b6dba6d647e12ec60cfa8e
+FileChecksum: MD5: 7ecbeeb67e09a843961187673974f86d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 2002-2013 Mark Adler, all rights reserved version 2.3, 21 Jan 2013 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/puffConfig.cmake.in
+SPDXID: SPDXRef-item15216449
+FileChecksum: SHA1: f83d84e29949af107625e9cffe10e78c641dbf14
+FileChecksum: SHA256: 36e09b8a4dd836d8940a98a9fed5132110378a09445e1cfdf3cb500e6923ac84
+FileChecksum: MD5: dd36945416a6c0c19ce8e2ede6006d40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/add_subdirectory_exclude_test.cmake.in
+SPDXID: SPDXRef-item15216451
+FileChecksum: SHA1: ff63453453d8d2b214abed6d42de1b528858fa98
+FileChecksum: SHA256: 1f6be7dd28aca68f90bc401a51945fb2445d2480cebe57af605fa07a83a75927
+FileChecksum: MD5: 88dbe4fce897001298610b9055e0a319
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/add_subdirectory_test.cmake.in
+SPDXID: SPDXRef-item15216452
+FileChecksum: SHA1: e5b004f7207c1b54fb99ed9db9e5c34eda2580b8
+FileChecksum: SHA256: 940bcfe135c2bffb249e96c314cd72bebee5238d309628003b5e114963abc22f
+FileChecksum: MD5: d34042b6efd9e75ba1b08c9cf504c66d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/find_package_wrong_components_test.cmake.in
+SPDXID: SPDXRef-item15216453
+FileChecksum: SHA1: 6c97d59f647451e082e058ed731e0eca9e32b72e
+FileChecksum: SHA256: ff3fc5ae857e5c5989763818b42d4b65429f8563abe051fbee202b2e9c0d8970
+FileChecksum: MD5: ed69b66f0e61cd51826e891d1df5b66a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/find_package_test.cmake.in
+SPDXID: SPDXRef-item15216454
+FileChecksum: SHA1: 33dcc05698ff5169904517be5b455b2ee7d3d6bb
+FileChecksum: SHA256: 29ac5953b3bd0a303ab5d21e1633fcbc093b1c5c1b1174e888a133d685341494
+FileChecksum: MD5: 8ae99dd8325b014a4f2cc58549a8a435
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/CMakeLists.txt
+SPDXID: SPDXRef-item15216455
+FileChecksum: SHA1: 6fc449dd69faa844b71e103425036de161ced0da
+FileChecksum: SHA256: 4641b74eaa9e5a993e0e59b5489953b3ef1c2dc47deb56e19fb13781da8c50a9
+FileChecksum: MD5: e71cfd79d72f266187c7bf6d210ab6e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/tester-cov.cmake
+SPDXID: SPDXRef-item15216456
+FileChecksum: SHA1: baec7f4f1fdd4cd79b2339924f171fa62aa7c8cb
+FileChecksum: SHA256: a3758f1bd0d78eec5308e8ec74b4d61f649243a2acd063392e682e9fadf2df22
+FileChecksum: MD5: 6fa2c94e122ece24ebf44fd7cae1548a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/find_package_no_components_test.cmake.in
+SPDXID: SPDXRef-item15216457
+FileChecksum: SHA1: f6e283deee2f4194fd4bb7f2ed3b95e9d16b1a18
+FileChecksum: SHA256: 6e002dda746535547989bd592c3d2f5ef2cabbfee06043b11baa0badb89a24a7
+FileChecksum: MD5: 609fde84bd3d7d6976736b2692ffc56b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/test/tester.cmake
+SPDXID: SPDXRef-item15216458
+FileChecksum: SHA1: 5cfbdec9935ad4fe05c3f15325ad0634dc92888a
+FileChecksum: SHA256: e0d2094dd9bd12ffc2eb0077051542954054d79e13fe1389b60d520c200735a8
+FileChecksum: MD5: 852f6be17a1a6905b159afc4108bd0ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/CMakeLists.txt
+SPDXID: SPDXRef-item15216459
+FileChecksum: SHA1: 1cd0694808823fe299077828e28bb65912e93089
+FileChecksum: SHA256: 86e97abd3279354fc37d203625d4bdb2eff0a53e71f94d13c48af3b258ba1c72
+FileChecksum: MD5: ed2889514f62fc4656897e0fcc1e8ded
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/bin-writer.c
+SPDXID: SPDXRef-item15216460
+FileChecksum: SHA1: 9afa495cf2ead705853fa4da5a76563f26a2ca87
+FileChecksum: SHA256: 3e425db304213f97b268a5372b606224e3ea72f3728d277e640bdc1ec5315cd8
+FileChecksum: MD5: 285741785bd12f30ac1416b56d3acbc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/puff/pufftest.c
+SPDXID: SPDXRef-item15216461
+FileChecksum: SHA1: c4cb08718cabae2fdd0db55cbe08caba09ed2d8e
+FileChecksum: SHA256: 69dc7d7d4b9c5e4b2149e37562a21c1c2622b7357b4d7bc6e3ab78e921b75367
+FileChecksum: MD5: 7a525c3dfab864498e4361c70027577a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: <text> Copyright (C) 2002-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/zfstream.cc
+SPDXID: SPDXRef-item15216463
+FileChecksum: SHA1: 19b83e921e89a638ebf978ca2beea7aefd78f9c2
+FileChecksum: SHA256: 8cdd67ed0b13c192c11e5ea90e9d5782d6627eb303fbc4aa5ebda2531ec00ff8
+FileChecksum: MD5: dda5e85498fe3936fabd955b5504c74e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) can safely add the extra character c to the sequence. These pointers remain in place for the duration of the buffer this->setp(buffer, buffer + buffer_size - 1); </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/iostream3Config.cmake.in
+SPDXID: SPDXRef-item15216464
+FileChecksum: SHA1: 1a58e0bc6e2b626f43ef5c19dae72965be6b5732
+FileChecksum: SHA256: 0845d7193b8131d8f5b5154eaf0ad00336a29c6a63881bbdb81304a13abdac27
+FileChecksum: MD5: fa16dbad1b0878351cc1644431c6646f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/README
+SPDXID: SPDXRef-item15216465
+FileChecksum: SHA1: d4a3dfd7a48721d6e7d12da226855bab19f6e8c1
+FileChecksum: SHA256: 43ec48ecbd95a8c45db20b107fac73b740bb11595a4737329188f06b713972cc
+FileChecksum: MD5: 7ec7295bc3b6fe132dba702e0f1f8892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/test.cc
+SPDXID: SPDXRef-item15216466
+FileChecksum: SHA1: b81342fb774937c210f5718ad5783f1eed13f7a7
+FileChecksum: SHA256: 8e17fc48dfdbc6e268838b8b427491b5843b6d18bc97caa6924de9fad7abe3da
+FileChecksum: MD5: 8e843c6f8614b260b153091edf9af3ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/zfstream.h
+SPDXID: SPDXRef-item15216467
+FileChecksum: SHA1: 975c110e6b18cb30f2b70ff56a1d261479a2bdfa
+FileChecksum: SHA256: d89587b446f928351565d099decd006a06b7a420cb1ff8ee9bb82e4d8c7235dd
+FileChecksum: MD5: 026a2ebf7ad6ebe01682a50b931f29bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/test/add_subdirectory_exclude_test.cmake.in
+SPDXID: SPDXRef-item15216469
+FileChecksum: SHA1: 21e75ff2ad82b6103cf77023af8c351b4b62c0d3
+FileChecksum: SHA256: e966f4d0ad9baf89c9546d163300455bf4b33a334a5747165907318112295308
+FileChecksum: MD5: 758231fa2ef0b1269b8982b112569f96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/test/add_subdirectory_test.cmake.in
+SPDXID: SPDXRef-item15216470
+FileChecksum: SHA1: 4b8e2fe05b55086b37c5e26ca038d09789cb6e9a
+FileChecksum: SHA256: f73783257fc84e54fba3b75d205bb618a8d97a19e6d03618aa6f80b65c874209
+FileChecksum: MD5: 97ab175f704deb44ccfbf44d10260513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/test/find_package_wrong_components_test.cmake.in
+SPDXID: SPDXRef-item15216471
+FileChecksum: SHA1: 12448855d4cdea2c9b4b2e3b754586902f8309da
+FileChecksum: SHA256: 519596467e3c980869c93af2b087742e6355dbc39e5785df388f8726cdee4d94
+FileChecksum: MD5: 0353bac95a65cdd614382725ecf0ba56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/test/find_package_test.cmake.in
+SPDXID: SPDXRef-item15216472
+FileChecksum: SHA1: f93dd172799b6624300ad7585ba879fe67a8e8d9
+FileChecksum: SHA256: f47fdfdf343561a2280b73a0f2caa4b9e77804626dac28dcb6f735f119dc2a6e
+FileChecksum: MD5: 449ba4c0c85b4ef572b328427f1ac553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/test/CMakeLists.txt
+SPDXID: SPDXRef-item15216473
+FileChecksum: SHA1: 73bf05fdaa272488e73e1b81d621291208a92c6d
+FileChecksum: SHA256: 91f7b7760292ff0f6ff1b61cfb20b8cbe5bfc663028369a373e77700a399c206
+FileChecksum: MD5: 2fa589b66a5e4d3f041b7a3bafe93711
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/test/find_package_no_components_test.cmake.in
+SPDXID: SPDXRef-item15216474
+FileChecksum: SHA1: c265346b317fd71d422cb27feeb1981c365f9cb4
+FileChecksum: SHA256: a693c2fa3a5d51485c9f4630889b8ea78df622b5353b47838f5f0cf240b13dc4
+FileChecksum: MD5: effb0ee8e849aea254202d5b1c58cdf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/TODO
+SPDXID: SPDXRef-item15216475
+FileChecksum: SHA1: c40d91b8e4051c4fac646e0213dee173e207bcee
+FileChecksum: SHA256: af5ebc83fb88f69706c8af896733784753dead147687e1c046f410c0997fd88b
+FileChecksum: MD5: 06be56f0740f2a8dd9b9e04824709ad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream3/CMakeLists.txt
+SPDXID: SPDXRef-item15216476
+FileChecksum: SHA1: 8624ee501e523ee45dd15715347d89ff871c0c43
+FileChecksum: SHA256: 46ff2b2d7b2ec1ea1b20dcb9167738eccfec32c1581c04879289f9fcff76f28f
+FileChecksum: MD5: 93b2dc45da218d25af68381b0cee18c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream/test.cpp
+SPDXID: SPDXRef-item15216478
+FileChecksum: SHA1: 0074186cc98585f48eb8d18c2be887955238b741
+FileChecksum: SHA256: 0f3c77e013949eb9c91e6b690ea894e19d97944d6b0885b82806fc3ad99680cf
+FileChecksum: MD5: a20e40dae1e8b28ef2ec9ed98fdc8a03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream/zfstream.h
+SPDXID: SPDXRef-item15216479
+FileChecksum: SHA1: 57f03c37ca952cec5e58c827995365c18c728285
+FileChecksum: SHA256: 4369c35e66f63f52ca4a5e1759bf720507ccabb8f3f132e2f18e68686c812401
+FileChecksum: MD5: 93f90ecc4d5299d820c3da08f7c7e7d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/iostream/zfstream.cpp
+SPDXID: SPDXRef-item15216480
+FileChecksum: SHA1: a8f677a8e32a4923a8a57c61e60ecb899eca5cab
+FileChecksum: SHA256: 8ebb9b3d521cc3392953f27658cf1f6dcb763216079f69a1518ec5ca0e42a63b
+FileChecksum: MD5: a73c28679044fdf0a8057c5193db8da0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/blastConfig.cmake.in
+SPDXID: SPDXRef-item15216482
+FileChecksum: SHA1: 4b5878678e48c6c62173ac217e82131f5f5db9ff
+FileChecksum: SHA256: 66baecf7d93f60c20d455359adb1fc0c8344354ddd836c7ecb40e59eefaee207
+FileChecksum: MD5: 1457fcbc087cb50166f9f7c42fcdc086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/Makefile
+SPDXID: SPDXRef-item15216483
+FileChecksum: SHA1: 78f9afbc06882e4693d7d2d998d94cb46813dc2f
+FileChecksum: SHA256: 9d1834dea66a27b02390fb1690cfa217c84b41c35342b0d5d527afc25d7c617a
+FileChecksum: MD5: f31a1b8c3bada27ae109425f647741b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/README
+SPDXID: SPDXRef-item15216484
+FileChecksum: SHA1: 69a33e70f88cc1f3520e2154ed38d3f690ee26e5
+FileChecksum: SHA256: baa763ae03d88ef7ece6eb80d9a099b43d0b57639d6d281e1c7c6ca79d81daba
+FileChecksum: MD5: b93c34189a9302e6f43c53c7d0277637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/blast.h
+SPDXID: SPDXRef-item15216485
+FileChecksum: SHA1: 8d840c16165dfb130b63b102b39e76a9ee2dc1d0
+FileChecksum: SHA256: 2b99276c3b40fd231a09df942a95a7cf007858e6bdf0a051fe29719316cc58a7
+FileChecksum: MD5: 8b36e79b3662664ece32cc943b27f2e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 2003, 2012, 2013 Mark Adler version 1.3, 24 Aug 2013 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/blast-test.c
+SPDXID: SPDXRef-item15216486
+FileChecksum: SHA1: aee95f2e1ca2685519b4673e1a5aa4cd7fbba5e8
+FileChecksum: SHA256: 5dee435776afafe1f2647b0e7ac63ef4a33a83fee542feab599dfc0ad8d5bfa0
+FileChecksum: MD5: 266bc4cc90ee7f43d4488e65c4a95f48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/add_subdirectory_exclude_test.cmake.in
+SPDXID: SPDXRef-item15216488
+FileChecksum: SHA1: 14e16b2d31128bea01eafea6a029dcbd470f7167
+FileChecksum: SHA256: 95ce021d630578b464a0a5f906a9792272d4ba3307e02f90bb50c0556db0fe64
+FileChecksum: MD5: c8c2f5121aabe107e5dd8bcc6308a482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/test.txt
+SPDXID: SPDXRef-item15216489
+FileChecksum: SHA1: aed9b9fc86b2b47a4c46053df53feb544ecf31ce
+FileChecksum: SHA256: 9679b2c98e1283222d0782b25a1c198dc64ba9ebd1addd6dc6f643a45947cda3
+FileChecksum: MD5: 1201a93782f0542d6fbf5134c1a5a4c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/add_subdirectory_test.cmake.in
+SPDXID: SPDXRef-item15216490
+FileChecksum: SHA1: cf7adb61645e2e4649df1636cdb0f375c95b9180
+FileChecksum: SHA256: e59e7ea67950ed42ec60333e07dc602d3cc44e06b1438d03b7f2851d3e95860b
+FileChecksum: MD5: 0764c0622f3d90e7e805aac4cf8c220b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/find_package_wrong_components_test.cmake.in
+SPDXID: SPDXRef-item15216491
+FileChecksum: SHA1: 5f8ce1179e5e35f030266f838b18ac1055079bc9
+FileChecksum: SHA256: 32ac0c4397f791122c3c4976f820d6d2bf2504414235961412b38d6eded7a3c7
+FileChecksum: MD5: 0fa444e8d2845e08ad63a682e72b077a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/test.pk
+SPDXID: SPDXRef-item15216492
+FileChecksum: SHA1: 00d07b4c71bad842d7e04210f966e55977efd9c3
+FileChecksum: SHA256: 5f5c262c545574a5c221132d5ef832478d222d70b015341795b3860204140d7c
+FileChecksum: MD5: f8dd3560a13a68bd15f5ca5a53c94ce9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/find_package_test.cmake.in
+SPDXID: SPDXRef-item15216493
+FileChecksum: SHA1: 9da18a929624acd83795b533136581cb5d3fb0b8
+FileChecksum: SHA256: 4cf7abd57d53bd11b52ab9037fe8456e1461d7302a811a6f511488f85cdf8fdf
+FileChecksum: MD5: a2528b0d945dc9bb5aa4cbab01bd77fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/CMakeLists.txt
+SPDXID: SPDXRef-item15216494
+FileChecksum: SHA1: 943d43a5fc51493d541df495ee8f28858902890f
+FileChecksum: SHA256: dae719240f4ab9061052d7523c6c8c7113bc3d6484cd23e14e21e5600bf9befa
+FileChecksum: MD5: 892d18da9fea9e561b18e182df21511c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/find_package_no_components_test.cmake.in
+SPDXID: SPDXRef-item15216495
+FileChecksum: SHA1: 89cf9f89fcf99d74954d662a530e9dd4e71dda38
+FileChecksum: SHA256: baac41f7d12c5fbf5593ec0540ec952796d7601d257fbb9cdaebd319906f9f24
+FileChecksum: MD5: 36061b2a4e3211560ef58fc2ca4bc83a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/test/tester.cmake
+SPDXID: SPDXRef-item15216496
+FileChecksum: SHA1: 29960fecce89371d7b2f992b8a4c30f678626f50
+FileChecksum: SHA256: 11b16608db0599b08f22ff0be40d7e9ba67d9ca0a6ee5cd50971f60e4c404ba5
+FileChecksum: MD5: d48131abf159025c2b94d8560be8232a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/CMakeLists.txt
+SPDXID: SPDXRef-item15216497
+FileChecksum: SHA1: f977526f85906a14ceacc4e24ae670ca055fce6b
+FileChecksum: SHA256: 9956c81fb6992c14397ee701972e79609131effe0694db76946b30fdaa7b7469
+FileChecksum: MD5: 829273f60edbf64ceb2d0214efa62936
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/blast/blast.c
+SPDXID: SPDXRef-item15216498
+FileChecksum: SHA1: 1dc95a9bcb0a5bfb1ce224b0f74f1bd6dc674910
+FileChecksum: SHA256: ebe6ec1b37dbd2b03959f453a5eab298621dcb6e593954bf22fe88d1abcfa72e
+FileChecksum: MD5: 82c6208b5c1cb8fe804e0444f59c269d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2003, 2012, 2013 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/README.contrib
+SPDXID: SPDXRef-item15216499
+FileChecksum: SHA1: 4346007dcb66c69cfae94ae3b351973ba7f52076
+FileChecksum: SHA256: ef017112f077503246c1d4e1bcecc2b5bd2491fcf9eebf33b98696c97546be8e
+FileChecksum: MD5: 0e085bca21858ee945b4fd75036afb2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/CMakeLists.txt
+SPDXID: SPDXRef-item15216500
+FileChecksum: SHA1: 44eb15e81949db97a6923f38f26334887afd7e41
+FileChecksum: SHA256: 499728362129a82ec006af5138689d2e500e8c9d8af98de0ee0a6a412a79564a
+FileChecksum: MD5: 58fa4c6bfc63c71fcb35de39a1eaabef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/delphi/readme.txt
+SPDXID: SPDXRef-item15216502
+FileChecksum: SHA1: 366e08eaa227cd3d09810c45639aedf4879b7ecf
+FileChecksum: SHA256: f7420ed2de77d4b498eefbbe6402a1d17dc2d411735289c78a265c7f10fdaee5
+FileChecksum: MD5: e43e458c50d36075813a1533d05a0bdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1997,99 Borland Corp., and is based on zlib version 1.0.4. There are a series of bugs and security problems associated with that old zlib version, and we recommend the users to update their ZLib unit. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/delphi/zlibd32.mak
+SPDXID: SPDXRef-item15216503
+FileChecksum: SHA1: ddf83b34d4c7d41ace39f96b5cb13fb390c8d2eb
+FileChecksum: SHA256: 850e91b6c9ea05de61a411cbda16fa0f10118cd88bb32c4b7226988776f8d511
+FileChecksum: MD5: b2cc80e48f2aa69be40b6f52ba3480c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/delphi/ZLibConst.pas
+SPDXID: SPDXRef-item15216504
+FileChecksum: SHA1: e0ff4d3c14a4dcdbf170692ce0fec86939b500d0
+FileChecksum: SHA256: 84bcc580bdf397e570f86f3f5a5b8c7bf537828f30b4b72648b81911f6bf5095
+FileChecksum: MD5: b02c46423595bd6358de3b7c5a148a88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/delphi/ZLib.pas
+SPDXID: SPDXRef-item15216505
+FileChecksum: SHA1: 52061db97c5d17722ab940cd938d6267592b54e7
+FileChecksum: SHA256: 4b517880dd35631fcd008256e6d946abacb0e84d7ed4ff68d1d21f2b7e0a13ca
+FileChecksum: MD5: 50d2cdec5e1bddb886079f3959ec99b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1997,99 Borland Corporation } </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/inftree9.h
+SPDXID: SPDXRef-item15216507
+FileChecksum: SHA1: b3c91dcc1f69ca90a9afb412445b74157b44c5ee
+FileChecksum: SHA256: 4ecd9db884bf43e33fbd34273c814029022477e1597676129f9c98e09d8cef56
+FileChecksum: MD5: 0a9eabc128125a5dca9289cc0aa3e3aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2008 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/infback9.h
+SPDXID: SPDXRef-item15216508
+FileChecksum: SHA1: 3a63f140c0974a6e38ca2089a775173a74c40a4f
+FileChecksum: SHA256: c89d926607c1afa1830c17f807de368d2f1afe2d1e7df426763f6d4bf5950379
+FileChecksum: MD5: b9829ce80f3fb463868c65caba5390a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2003 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/inffix9.h
+SPDXID: SPDXRef-item15216509
+FileChecksum: SHA1: 7a57a5901d920d1d3fcf4f8d6bedf8c9c68b41a7
+FileChecksum: SHA256: 84a2ba4727767c18af6505f0e81d9c814489c8b9ed330a25dad433db72997e43
+FileChecksum: MD5: 1558f49aeca6376b7aa331add59e0e06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/README
+SPDXID: SPDXRef-item15216510
+FileChecksum: SHA1: b3905a8a31f7c61114b5fa6e203682b250e029d6
+FileChecksum: SHA256: 890288f02bb3b1f9cc654b87a07fcea695f90f6b9bd672d25bf6be1da2ec1688
+FileChecksum: MD5: 84ff1d06483d3da2af928cddcab88a1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/inflate9.h
+SPDXID: SPDXRef-item15216511
+FileChecksum: SHA1: c7541490d97f70268010ae1baeb98a10302f3df8
+FileChecksum: SHA256: 32a907676cc36e27d0fdc0d99adb83a0b23f20ab61896269216d40fecf08d349
+FileChecksum: MD5: 8a4de1bca6c4182d025ea55062d125d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2003 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/infback9.c
+SPDXID: SPDXRef-item15216512
+FileChecksum: SHA1: ed057e37acc123cee1d0470f1c2c78429cca566d
+FileChecksum: SHA256: 22c511270c79db1b7939637121304c2b83d6f6319e7e1d8008e283a073d994f2
+FileChecksum: MD5: e2e0c9262513b76788a0b76c3298a785
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2008 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/inftree9.c
+SPDXID: SPDXRef-item15216513
+FileChecksum: SHA1: e43dd77ef8d422f40087a286b220dac2c2902ec0
+FileChecksum: SHA256: 2b6c25ea3d93a7eba89c32dc212ab8642df5eade73b5a0f3a2039c42653fed50
+FileChecksum: MD5: f975539d41e81b863266153458465646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Mark Adler
+copyright[] =
+Copyright 1995-2026 Mark Adler ";
+copyright string in the executable of your product. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/infback9/CMakeLists.txt
+SPDXID: SPDXRef-item15216514
+FileChecksum: SHA1: 13fd374132f30e8624daf87daddfb9f57f53451d
+FileChecksum: SHA256: f4b706e59cdf985ee18990689045e8cc40b9eccd708ce18c0b7d8370e1e65ed1
+FileChecksum: MD5: ea3609ff8d61c123c4448bb375d4b34c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/pascal/zlibpas.pas
+SPDXID: SPDXRef-item15216516
+FileChecksum: SHA1: b92b64be788b2bf0ec1d46b55081b3e8ccacebfc
+FileChecksum: SHA256: 2e04f874b8e4450b23673692796892d83bbd6c15851da5980079912290e1c680
+FileChecksum: MD5: 9348f0ed4b854f741d7d3de907ae74f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: <text> Copyright (C) 2003 Cosmin Truta. Derived from original sources by Bob Dellaca. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/pascal/readme.txt
+SPDXID: SPDXRef-item15216517
+FileChecksum: SHA1: c47cc3ccdb450bd0d3d1d0e6f52746a2c0ca8541
+FileChecksum: SHA256: 02f997c37991ddae0cb986039f7b4f6fc816b3fd0ffd332cad371d04c12cf1b9
+FileChecksum: MD5: 6f8616a2ea8e227457c9f191b4c71018
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1995-2003 Jean-loup Gailly and Mark Adler.
+Copyright (C) 1998 by Bob Dellaca.
+Copyright (C) 2003 by Cosmin Truta.
+Copyright (C) 1995-2003 by Jean-loup Gailly.
+Copyright (C) 1998,1999,2000 by Jacques Nomssi Nzali.
+Copyright (C) 2003 by Cosmin Truta. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/pascal/zlibd32.mak
+SPDXID: SPDXRef-item15216518
+FileChecksum: SHA1: ddf83b34d4c7d41ace39f96b5cb13fb390c8d2eb
+FileChecksum: SHA256: 850e91b6c9ea05de61a411cbda16fa0f10118cd88bb32c4b7226988776f8d511
+FileChecksum: MD5: b2cc80e48f2aa69be40b6f52ba3480c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/pascal/example.pas
+SPDXID: SPDXRef-item15216519
+FileChecksum: SHA1: 51c42c32667ef6fc0b4b51867afac971fe11c15c
+FileChecksum: SHA256: d842d456ecb6ff80e34cee2da31deb2072cc69ca837497bea8b8bee203403474
+FileChecksum: MD5: 6e41517081b62c5045e67146c2b5c3ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2003 Jean-loup Gailly.
+Copyright (C) 1998 by Jacques Nomssi Nzali.
+Copyright (C) 2003 by Cosmin Truta. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/nuget/nuget.csproj
+SPDXID: SPDXRef-item15216521
+FileChecksum: SHA1: 70481912227107ebe13bbd48612ac700d8ddcb09
+FileChecksum: SHA256: e3213e4f36e27c5672edeba4cf88fb46d8a9692cb0bafaefa31fc9bd4ab00f92
+FileChecksum: MD5: cb4d94cd08e430fcb39b9a9b130fcad3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright>(C) 1995-2026 Jean-loup Gailly and Mark Adler</Copyright> version>1.3.2.1</version> PackageDescription>NuGet Package for consuming native builds of zlib into .NET without complexity.</PackageDescription> PackageReadmeFile>README</PackageReadmeFile> </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/nuget/nuget.sln
+SPDXID: SPDXRef-item15216522
+FileChecksum: SHA1: 0bb7fc9b4b7b2b3999fac710f4e92d9ee7019b5d
+FileChecksum: SHA256: 074a80c6c3898ea4f7935734d81fe81d3c15f5dae5b17806fa7a036b69ad5c33
+FileChecksum: MD5: b19a9085d229895ec2d70126567865af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/readme.txt
+SPDXID: SPDXRef-item15216524
+FileChecksum: SHA1: e33d9f0544118f087d9db3cdcb7567f6cd2c2b33
+FileChecksum: SHA256: 67cc078e36cc7fc43853fc9cd7b4cdb468ef8de039991420bfa054b3eb080bc3
+FileChecksum: MD5: 5d55730e91f4f15e0372f74d5560ddf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/test/add_subdirectory_exclude_test.cmake.in
+SPDXID: SPDXRef-item15216526
+FileChecksum: SHA1: 089ec485dda578ac23ff5f5bea81033258c9bb61
+FileChecksum: SHA256: c5bacd4f239990ed02e50ec421e7aabfed6fe369aed7f6306ccdb1a7002aea7d
+FileChecksum: MD5: e75214b15f367b4aea0cdfd04ca99603
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/test/add_subdirectory_test.cmake.in
+SPDXID: SPDXRef-item15216527
+FileChecksum: SHA1: 43c9ec02e6166f80ed85dd5817eb58ebb983eb1e
+FileChecksum: SHA256: a9a92b21117563dffa6809877055e6932c45f94214bace060b437bb30445ee55
+FileChecksum: MD5: 5814962cc774e6a2fbfeb3062f0fa902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/test/find_package_test.cmake.in
+SPDXID: SPDXRef-item15216528
+FileChecksum: SHA1: 0d061516b66261af08f1258054b56629fb56f753
+FileChecksum: SHA256: ce47904b4734b73aafb540c587acfe04a4584d19e5ecd0a97595c4aca0a3dc0e
+FileChecksum: MD5: af21abe097f60dace20b58968b5d6e20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/test/CMakeLists.txt
+SPDXID: SPDXRef-item15216529
+FileChecksum: SHA1: 1f5f279e20b518a03e1727440d4925f9eeb9d4c9
+FileChecksum: SHA256: a05b8ddfc685537f2c2ad6699471f081ec27bda5fd6e74755c2a6a587883e63e
+FileChecksum: MD5: 52823d5f2f9559d9eba256ef29948dd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/CMakeLists.txt
+SPDXID: SPDXRef-item15216530
+FileChecksum: SHA1: d1541031bfc1873443e4145a7acb7fb1853c5f22
+FileChecksum: SHA256: 0f6561e3b8302fe6792355c93f432920e218dab6b0eaec0956b5baec9b7e5380
+FileChecksum: MD5: 00334bfc6db34b7601290d3b8f5f9844
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/zlib1dllConfig.cmake.in
+SPDXID: SPDXRef-item15216531
+FileChecksum: SHA1: ace1c3bc55fc3999fb42f6f510c4f44d42580015
+FileChecksum: SHA256: 0d0e4c7f8c2f0729d89e45fcef46c2f4f49d30f85124e0f0b10baf39961db4f1
+FileChecksum: MD5: 5206908aec0a61e238cbb0511e0f5b5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/zlibwapi.rc
+SPDXID: SPDXRef-item15216532
+FileChecksum: SHA1: 970a657e8c96a55497b28dad58716f9f8703e985
+FileChecksum: SHA256: 08091b59ede84e3c66e2824ed9f966841ac71e38a5b952ad135b28ac4dbebc1f
+FileChecksum: MD5: 84c3f931caa4c231ac15f25d66c51d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright",	"(C) 1995-2026 Jean-loup Gailly & Mark Adler\0" ifdef _DEBUG VALUE "OriginalFilename",	"zlibwapid.dll\0" else VALUE "OriginalFilename",	"zlibwapi.dll\0" endif VALUE "ProductName",	"zlib\0" VALUE "ProductVersion",	ZLIB_VERSION "\0" VALUE "Comments", "For more </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/zlib1-dll/zlib1.rc
+SPDXID: SPDXRef-item15216533
+FileChecksum: SHA1: aa14855e01b9b890cda3cfcbb93cc0e9730c7a69
+FileChecksum: SHA256: fb681f9519c9f1a8c265419e4acb3bac61475356301b53be6368be490131eb8f
+FileChecksum: MD5: 2504da6c056a82a534bc72ec8778f0db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright",	"(C) 1995-2026 Jean-loup Gailly & Mark Adler\0" ifdef _DEBUG VALUE "OriginalFilename",	"zlib1d.dll\0" else VALUE "OriginalFilename",	"zlib1.dll\0" endif VALUE "ProductName",	"zlib\0" VALUE "ProductVersion",	ZLIB_VERSION "\0" VALUE "Comments", "For more infor </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/minizip.1
+SPDXID: SPDXRef-item15216535
+FileChecksum: SHA1: 17a13c717cd030c037a407f59d0d14d2c25e4e05
+FileChecksum: SHA256: 5404596e8e5587a52f563906119f32ceee30a6d97a966afa5c7afbe4d373e210
+FileChecksum: MD5: c7758789cc7e9e99f07d0e758475ea28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/miniunzip.1
+SPDXID: SPDXRef-item15216536
+FileChecksum: SHA1: e925714d46251f192d3266ef4a4cb64d292eb787
+FileChecksum: SHA256: 66d8684392167091ef0fe01598d6a0daa26e7e448e2df6c3cb257487735b83f7
+FileChecksum: MD5: 1f4ccb34373f0b46ae4fa7f3c731ae3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/Makefile.am
+SPDXID: SPDXRef-item15216537
+FileChecksum: SHA1: 68917bb60abab4e582d9f4b25225d2f600e7a946
+FileChecksum: SHA256: 000e79215e21338b11b2899b9aab00fd31c9cb423b4fe062a8e30f117d2b2281
+FileChecksum: MD5: 10fc48773228babc38bda9bda48b72cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/minizip.c
+SPDXID: SPDXRef-item15216538
+FileChecksum: SHA1: d5dd8f01f3979a1bb0a33df364d4a3a78974e88f
+FileChecksum: SHA256: 0b9ba1667d6f9b38613c043c5e753fd1c910455285978b45cabdb8970a5c37a8
+FileChecksum: MD5: b50ab813192806012161935b2ae7955a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2007-2008 Even Rouault
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com ) </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/mztools.c
+SPDXID: SPDXRef-item15216539
+FileChecksum: SHA1: aee9004fab46b26ec3494e886e76a1551abceed4
+FileChecksum: SHA256: 392e464099164d90063cbc259593d6ecab198b03121075cb22ec11c0e22bd413
+FileChecksum: MD5: 966414652f0c32ce76ca62f360f02a4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/Makefile
+SPDXID: SPDXRef-item15216540
+FileChecksum: SHA1: 112b461a48e6fab3b3eb51ace8c628dbbf2dfc39
+FileChecksum: SHA256: 4930d5913df102a3188aa02793ec5dda7e728c8392d4f70a1bdb55d62627f08a
+FileChecksum: MD5: f4eaf2f64b237bc36a12e40d415ec6a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/ioapi.h
+SPDXID: SPDXRef-item15216541
+FileChecksum: SHA1: ba749f3f0d2e0d0e140b0a1439ddacfe10408761
+FileChecksum: SHA256: 0311a8d1869dc58acbee0a1c93bb679a38d3ee97d1f0a5b3c3c6d7868746e10e
+FileChecksum: MD5: 12200a60897aed3cf4f8591b9e98a7ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com ) </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/crypt.h
+SPDXID: SPDXRef-item15216542
+FileChecksum: SHA1: 67cfa9f81b070e2713ae7c05980c02e0800892ac
+FileChecksum: SHA256: 03f9f73d2fda547427e702d250a2208c56b02f880a63ab2f1da7fc84a6637415
+FileChecksum: MD5: 85d83d2b9a64f71a6e8cc71ba8ab3282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/zip.c
+SPDXID: SPDXRef-item15216543
+FileChecksum: SHA1: 5d0c835077fa94cadca0f63bfca4e131510191c5
+FileChecksum: SHA256: 6d08b55eeacaeefb2a8aca39174b00fb03fe51e240a2b1393ba05191bc83affd
+FileChecksum: MD5: 7a516c4a4df10fd61ac811216b079588
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com )
+copyright[] =" zip 1.01 Copyright 1998-2004 Gilles Vollant - https://www.winimage.com/zLibDll/minizip.html"; </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/zip.h
+SPDXID: SPDXRef-item15216544
+FileChecksum: SHA1: eae81977f80c3ae2d44705fc92c0ef67a6c5e39b
+FileChecksum: SHA256: a58c41ad517c7042fd294af01917a2bacc1f9645756a7a36f8ca7978337a67ad
+FileChecksum: MD5: 0d581e03ae581e47450ef5f9cf2d669b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com )
+copyright[]; </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/ioapi.c
+SPDXID: SPDXRef-item15216545
+FileChecksum: SHA1: 439f085dab758c5ebfdc9fe6c3333d33e7f56e6a
+FileChecksum: SHA256: 4e769b2ca4f5f05c5bae63f2d7146856f300028b30578aa3f8a98b4b297c4047
+FileChecksum: MD5: deac76f8a233409b512c949438180e58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com ) </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/mztools.h
+SPDXID: SPDXRef-item15216546
+FileChecksum: SHA1: 907243f7cea46d38ad12f6a6d6e01adb4d74f1b3
+FileChecksum: SHA256: 6f82c52279e8f79165f4446be652e5741a49992ac58632470335aa34c564072a
+FileChecksum: MD5: 7caac7503f8f002d61e0f0e5b7f33bc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/test/add_subdirectory_exclude_test.cmake.in
+SPDXID: SPDXRef-item15216548
+FileChecksum: SHA1: 6156192a70a7a1a75a2b5c44f40f0df82284351b
+FileChecksum: SHA256: 9757b56cb0d1298aaf17c31cb1b49e2dd77d934a2f8138256983995281b08bbc
+FileChecksum: MD5: faca41a0721ee01c1be66fe04345a8f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/test/add_subdirectory_test.cmake.in
+SPDXID: SPDXRef-item15216549
+FileChecksum: SHA1: bcd278500fb0f2f8b358fe1aa2ca4a1eb7766e06
+FileChecksum: SHA256: 313cb312f43891c81485769e69a8616064c314084394fa8807bbccf3659111e8
+FileChecksum: MD5: 9927bdc1fe6800fae077bfc4cea4b46f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/test/find_package_wrong_components_test.cmake.in
+SPDXID: SPDXRef-item15216550
+FileChecksum: SHA1: f4df8e015ad065db02a4c1c05c3ade20938d51cb
+FileChecksum: SHA256: 45c0184b398142361319cf5e3942f78dbaca570739ac1306de47732cd625025a
+FileChecksum: MD5: 8222ebd9c65b9f2ffc1f3d2b5c78f4fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/test/find_package_test.cmake.in
+SPDXID: SPDXRef-item15216551
+FileChecksum: SHA1: 298b2433f8b131a3cbb5536f318fc394ea716bea
+FileChecksum: SHA256: 970be131b13dbeb2746d045086fe8cabdb533c469d2d8635f445dbd9cb62c44a
+FileChecksum: MD5: 8b2f0577ffa2d50143f131f376769a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/test/CMakeLists.txt
+SPDXID: SPDXRef-item15216552
+FileChecksum: SHA1: d7f0afa9e474953a731a293d4d27dc61e2da4fdd
+FileChecksum: SHA256: 78f680f3010d049515a44678a9d855365ecf642f91a19234fdbbe7ce6ba98263
+FileChecksum: MD5: 0e9f130f2a40900d6f7dab37e4ac8f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/test/test_helper.cm
+SPDXID: SPDXRef-item15216553
+FileChecksum: SHA1: ea10c1c1ff40d8ac62ecce078ce5762d9446812f
+FileChecksum: SHA256: 7a82f9571c99adead76e6bbf05ebe005860f3ff3a65c4186d3e74db310bd97da
+FileChecksum: MD5: 0579266a456d5bcce467fbd19becb278
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/test/find_package_no_components_test.cmake.in
+SPDXID: SPDXRef-item15216554
+FileChecksum: SHA1: 7c5acb21319a0bd684182ea3c9f737b16cf6a10a
+FileChecksum: SHA256: 666012b0e2c960d2ddb1d5c3023ace05424627d67ec32c47ccf57aed3c92a017
+FileChecksum: MD5: a9134b55d17edc7eae5e87d620429286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/unzip.c
+SPDXID: SPDXRef-item15216555
+FileChecksum: SHA1: 28c8ee81df87ff2717278b99bbc20786a48d8728
+FileChecksum: SHA256: cef8e55af996c82b89b14814933c4d737b5b305dbfc0ab9db5dbe6273282d059
+FileChecksum: MD5: dea568c9858bc81740c8eb1b196fb82e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Info-ZIP
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2007-2008 Even Rouault
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com )
+Copyright (c) 1990-2000 Info-ZIP. All rights reserved.
+Copyright (C) 2007-2008 Even Rouault
+Copyright (C) 1998 - 2010 Gilles Vollant, Even Rouault, Mathias Svensson
+copyright[] =
+Copyright 1998-2004 Gilles Vollant - https://www.winimage.com/zLibDll/minizip.html";
+copyright[0]!=' ') return NULL; </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/configure.ac
+SPDXID: SPDXRef-item15216556
+FileChecksum: SHA1: 7ae88de2dbe8761f0af031b8eea9187b7c4981f1
+FileChecksum: SHA256: ab1f737e290eb55522a8ac0157abbee0a65b41682705838de3e782b1132709b6
+FileChecksum: MD5: e2176ca256266362366033244030b7df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/iowin32.h
+SPDXID: SPDXRef-item15216557
+FileChecksum: SHA1: 8cbec697aaa24aad0828bf27cacd449166205302
+FileChecksum: SHA256: dd98534f7052d64541af13191a40859fb79675724e0a75f496ad8b52580fa9ef
+FileChecksum: MD5: 1847e82d45ecaea8cbb13a488848a40b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com ) </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/CMakeLists.txt
+SPDXID: SPDXRef-item15216558
+FileChecksum: SHA1: 3843dc660ef2d1c304b16444be7d3053f82aea32
+FileChecksum: SHA256: fd4ef28bb3bd4ee86a4298119c09128467a83cb536147d8c1ebe79233d9d0ffb
+FileChecksum: MD5: 317de262885826cb5486ffdff7fb9d1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/minizipConfig.cmake.in
+SPDXID: SPDXRef-item15216559
+FileChecksum: SHA1: 0cfddddfbc40273f7128cf178a73fe973efa7c7b
+FileChecksum: SHA256: 44c8d24903b7d210162f484779d022c7ba578ce09e6425ee42039bbef4baa32a
+FileChecksum: MD5: 28fdb8e4c66f8092df6cb3ea1e8d9f99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/skipset.h
+SPDXID: SPDXRef-item15216560
+FileChecksum: SHA1: ca27e0f1cb0c266ec89f4aeac7435bdc674f6a04
+FileChecksum: SHA256: 8a3f8d3b0276c671e715e625966a669f261d48e2e35e02c4a4fc600fb0af3c98
+FileChecksum: MD5: 6fa51e73345665f5cb37a4c07e584622
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2024-2026 Mark Adler See MiniZip_info.txt for the license.
+(c) 2014 M.E. O'Neill / www.pcg-random.org Licensed under Apache License 2.0 (NO WARRANTY, etc. see website) private-- Random number generator state. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/LICENSE.Info-Zip
+SPDXID: SPDXRef-item15216561
+FileChecksum: SHA1: d89a847eb33ada6d85d38c45e8b8a38e4893f1af
+FileChecksum: SHA256: fc686023047ce5ce3a18a9b8a777156f0e475929d3de06bac279f3c025d2b2ca
+FileChecksum: MD5: 8a145d11f331488e793aeecacad84fde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Info-ZIP
+FileCopyrightText: <text> Copyright (c) 1990-2009 Info-ZIP. All rights reserved. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/minizip.pc.txt
+SPDXID: SPDXRef-item15216562
+FileChecksum: SHA1: 8e8ecc56923081d99b482d34f6e2e4e54421d1cf
+FileChecksum: SHA256: 80fdc752f2637bb4ca88b79a7060c5f696f09cd5925f17af477bd876112484b6
+FileChecksum: MD5: c5bae8c3234b2ce34bdf71d22c8be0b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/MiniZip64_info.txt
+SPDXID: SPDXRef-item15216563
+FileChecksum: SHA1: eaad8f426098c6ddff9e04a0030f676ff14802aa
+FileChecksum: SHA256: 8a3aa14b12f22fa91a6cc84b39d76298dc28ea577fb6bbcf0ebe94e4eda77d1d
+FileChecksum: MD5: 5326af2c4e1b9528b946e2f5e9abe4f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (c) 1998-2026 - by Gilles Vollant - version 1.1 64 bits from Mathias Svensson </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/unzip.h
+SPDXID: SPDXRef-item15216564
+FileChecksum: SHA1: c5abc9137f5dfd2493010516962c3259fc8f59e4
+FileChecksum: SHA256: 38cfbb7dde443d46e7fd320c5c52bc38477b4fc0e08c550b15026a98295eb69d
+FileChecksum: MD5: 53bcda74d9485bb3ed48b4cc8cbfa15f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2007-2008 Even Rouault
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com )
+copyright[]; </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/miniunz.c
+SPDXID: SPDXRef-item15216565
+FileChecksum: SHA1: c52206929ccbce681b953bfae75a6ce737c4839c
+FileChecksum: SHA256: e1ab877ac9a3e207d3803c32d0051f6712dfd9f33a57a60e89116bed82d8019e
+FileChecksum: MD5: 01daea8e891ffcf1553d7482dfc26556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2007-2008 Even Rouault
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com ) </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/make_vms.com
+SPDXID: SPDXRef-item15216566
+FileChecksum: SHA1: 0d66687227f7cebe3fc201fc9cc1061784912fb8
+FileChecksum: SHA256: 82ddf15ce7ac285d6d91b13e1a84be47e4566be8cbb97685e0f8390ba90977a7
+FileChecksum: MD5: af320e551647ae8dbd7bdecad2236cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/iowin32.c
+SPDXID: SPDXRef-item15216567
+FileChecksum: SHA1: 38cca34f01346c916b7cf5e053d21d7aea61123b
+FileChecksum: SHA256: 8b839d6bfa761b152892a2702299a0e2993dd29356823c5c542504e7411fe22e
+FileChecksum: MD5: eb07f1acffb70d9ab2a6e31c5890d209
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998-2026 Gilles Vollant (minizip) ( https://www.winimage.com/zLibDll/minizip.html )
+Copyright (C) 2009-2010 Mathias Svensson ( https://result42.com ) </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/minizip.pc.in
+SPDXID: SPDXRef-item15216568
+FileChecksum: SHA1: 7e2eb619990d7e9420ada6581a24d5e4388cd8a9
+FileChecksum: SHA256: c119f8d2f5e1bf17cb1748767c46949e5527858106fb01731eb735d192104ac0
+FileChecksum: MD5: ebbbb9cc23ccfb9fc9d73a85b4a14519
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/MiniZip64_Changes.txt
+SPDXID: SPDXRef-item15216569
+FileChecksum: SHA1: 6da21c3a9332ada6d3640444d35fe51eb0d8c131
+FileChecksum: SHA256: c371d1672b1ec23c6fe0c600543e0c96374400b4d434447ff2596f21255079f1
+FileChecksum: MD5: 684e47cee10f0ee7595b013a55899367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/contrib/minizip/ints.h
+SPDXID: SPDXRef-item15216570
+FileChecksum: SHA1: b5fa94afa69a066f675bb36e3f3ee90db1e6fbe3
+FileChecksum: SHA256: 4397ab032db87bcdcb4eacd01886c2a75166a09cf2b99a1739ebce3c811f581a
+FileChecksum: MD5: 3676a7149dad05feb96852132afb0457
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: <text> Copyright (C) 2024 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/gzwrite.c
+SPDXID: SPDXRef-item15216571
+FileChecksum: SHA1: a29a253e27c2409884bd21c04564fbac3cf8f7da
+FileChecksum: SHA256: 548eb54323313b70b74a5564a61ccd4b968200ef89cbb70a6152d50b373515c5
+FileChecksum: MD5: d8d650cc2a37fb8bb611350bcc80627a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2004-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/FAQ
+SPDXID: SPDXRef-item15216572
+FileChecksum: SHA1: a20d494c75975dc5ae2b0c518b3ff6eb16762952
+FileChecksum: SHA256: 8f64fd44e4773233f22a07c9d7a8cd83646d78c1e7c9bb79c43a9876e6ddb0d5
+FileChecksum: MD5: 023ed9dcfe2297b3013c5174ef869138
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/MODULE.bazel
+SPDXID: SPDXRef-item15216573
+FileChecksum: SHA1: 954e9d7bbb9532b2600200fea730345537030d14
+FileChecksum: SHA256: 55f8668b57d00e60bf868d7bc564bdcd2dc15f1c1299f109f3975a2e22a3d0a8
+FileChecksum: MD5: 8183a1cdaef762a6d8249b0a0d901282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zlib.map
+SPDXID: SPDXRef-item15216574
+FileChecksum: SHA1: c47d1feca03122875f4d67e058911621b193fea6
+FileChecksum: SHA256: 684411bd6fbcd5b377ca5a3e813e4195ac5e7db1976c8f975875b6204d1d6a8e
+FileChecksum: MD5: c229f12403b1d5227b172c870175e7cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright; inflate_copyright; inflate_fast; inflate_table; zcalloc; zcfree; z_errmsg; gz_error; gz_intmax; </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/deflate.c
+SPDXID: SPDXRef-item15216575
+FileChecksum: SHA1: dd35f446f86999d170f4dd4c90201696edf9f112
+FileChecksum: SHA256: f424a1b02cd3d7ef3145773e6486a2261f65e44e9d297b1188fa561b72f3f757
+FileChecksum: MD5: 4bb7939089e07e0a784f7ad626cf36ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly and Mark Adler
+copyright[] =
+Copyright 1995-2026 Jean-loup Gailly and Mark Adler ";
+copyright string in the executable of your product. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.cmake-format.yaml
+SPDXID: SPDXRef-item15216576
+FileChecksum: SHA1: 92b1e97739da9fb4ec3d54a24554df988890cc28
+FileChecksum: SHA256: 986f0fdc53be34f931d66c1a6fa4935d84991da14f059c7df567ede7cd32b68f
+FileChecksum: MD5: c19fb5604e4d3e7dc7cb7fdef4855f61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/deflate.h
+SPDXID: SPDXRef-item15216577
+FileChecksum: SHA1: 7b2157ca7a4888f56fc6b704592f7c4c28d6267a
+FileChecksum: SHA256: 21f4ea0973dab272fb26e93305ccf8628c8dc07e6c5df09a9861825b1920ba5d
+FileChecksum: MD5: 460320fba340e742e8009475366ee94e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zconf.h.in
+SPDXID: SPDXRef-item15216578
+FileChecksum: SHA1: cc6d7670406cb29afa25269ee2f8a86e31200ada
+FileChecksum: SHA256: cb7c2c84211473b4699223edd363d3207b43b9578e739b5bf638f42204ea6e0f
+FileChecksum: MD5: fece7a941eb804d37ef0f6e3e74c1415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly, Mark Adler
+copyright z_deflate_copyright define get_crc_table z_get_crc_table ifndef Z_SOLO define gz_error z_gz_error define gz_intmax z_gz_intmax define gz_strwinerror z_gz_strwinerror define gzbuffer z_gzbuffer define gz
+copyright,"INCOPY") endif </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/zlib_how.html
+SPDXID: SPDXRef-item15216580
+FileChecksum: SHA1: 3d9b3bd54bfc2e1a8b5c661af749492ceb5d71e3
+FileChecksum: SHA256: 48e287c4eca635c937c01baf923bf275086c83922876c22aad1b04e04605017f
+FileChecksum: MD5: 7309551cf3a436b8cd7c3d3c02555741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: CC-BY-ND-4.0
+FileCopyrightText: <text> Copyright (c) 2004-2026 Mark Adler. --> head> body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#00A000"> h2 align="center"> zlib Usage Example </h2> We often get questions about how the <tt>deflate()</tt> and <tt>inflate()</tt> functions should be used. Users wonder when they should
+copyrighted -- provided to the public domain Version 1.5 11 February 2026 Mark Adler */
+Copyright &#169; 2004-2026 Mark Adler</i><br> a rel="license" href="https://creativecommons.org/licenses/by-nd/4.0/"> img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png"></a> a rel="license" href="https://creativecommons.org/licenses </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/fitblk.c
+SPDXID: SPDXRef-item15216581
+FileChecksum: SHA1: 6342e57a46580a78f347936e79ddb59b3ad80ee3
+FileChecksum: SHA256: bec64da6fc0c9a2a37a96722e8b88ca09059148e5be5ecbb486bdba5339e228a
+FileChecksum: MD5: 8e00314ef70773107dac9dd1057e8088
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> copyrighted -- provided to the public domain Version 1.1 25 November 2004 Mark Adler */ </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/gzlog.h
+SPDXID: SPDXRef-item15216582
+FileChecksum: SHA1: debb98e4c334b60d20400ff56e02a72c1ec7b5a0
+FileChecksum: SHA256: 681f280437f867820bf39880e2f4fc641d402879e399ba2e6a31d73feefe8edc
+FileChecksum: MD5: 340d8e0eb35d4f35d6f445f18cb06572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 2004, 2008, 2012 Mark Adler, all rights reserved version 2.2, 14 Aug 2012 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/gznorm.c
+SPDXID: SPDXRef-item15216583
+FileChecksum: SHA1: 871d43d17f3750f12597c9228e01d8a1ef27721c
+FileChecksum: SHA256: ef32a4cf70f29843d9298473e0918d8f5c570a2765ab0776262e7a613c9146e9
+FileChecksum: MD5: 3fefa8ee0fc760fd92fe3984fbaf2d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2018 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/gun.c
+SPDXID: SPDXRef-item15216584
+FileChecksum: SHA1: aa7ce45dcd1c955ba6ab142e811f8247f4add107
+FileChecksum: SHA256: e203716e306e79f31f73ffe594e4214801f72ae768db7a8f115ac425132ad52f
+FileChecksum: MD5: 0e44d87b4b60d7992021888f59944fb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2003, 2005, 2008, 2010, 2012 Mark Adler
+Copyright (C) 2003-2010 Mark Adler\n"); fprintf(stderr, "usage: gun [-t] [file1.gz [file2.Z ...]]\n"); return 0; </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/enough.c
+SPDXID: SPDXRef-item15216585
+FileChecksum: SHA1: d4f3b3ef58723c502bb40b372f9e9e8a9e1e3b31
+FileChecksum: SHA256: 528138fffd5f680caceca4b0e430b8e9d8b57a54cdb7873859b0bcbe47318ffc
+FileChecksum: MD5: 9ad61aa4ceee6300c0f704978374f587
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2007, 2008, 2012, 2018, 2024 Mark Adler Version 1.6 29 July 2024 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/gzappend.c
+SPDXID: SPDXRef-item15216586
+FileChecksum: SHA1: 48c3cc2bf6d164e0f68c13f07be67eac48422318
+FileChecksum: SHA256: 6de91c8305e37560117bff44136abff72b16b028c0bda0bbac7ea07e4988b0ce
+FileChecksum: MD5: 10b0a6f9537900ec773061d95042eaf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 2003, 2012 Mark Adler, all rights reserved version 1.2, 11 Oct 2012
+copyright to help Send help to stdout instead of stderr Add some preemptive typecasts Add L to constants in lseek() calls Remove some debugging information in error messages
+Copyright (C) 2003, 2012 Mark Adler\n" </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/gzlog.c
+SPDXID: SPDXRef-item15216587
+FileChecksum: SHA1: 26c693ef11dd31c6070236ad20d07fb02fffbeb9
+FileChecksum: SHA256: d9a2f9871e7f1724f9f9359fd4851dc0eac7af10d8234bab66327badb33d1a38
+FileChecksum: MD5: 2cff130ca4a0620e9c44afbe86a4750a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: <text> Copyright (C) 2004, 2008, 2012, 2016, 2019 Mark Adler, all rights reserved </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/zpipe.c
+SPDXID: SPDXRef-item15216588
+FileChecksum: SHA1: ce4baf9b79711351261c76d0854d4d7e2cfcaef1
+FileChecksum: SHA256: e79717cefd20043fb78d730fd3b9d9cdf8f4642307fc001879dc82ddb468509f
+FileChecksum: MD5: 67417b133ce321940f14b1863cc30777
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> copyrighted -- provided to the public domain Version 1.5 11 February 2026 Mark Adler */ </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/README.examples
+SPDXID: SPDXRef-item15216589
+FileChecksum: SHA1: 90254f4e2c461d8ff1645037361d71b7f403ea41
+FileChecksum: SHA256: 1bc1c677bbebe1aa5e85015bb62f0cf3fcdbf95652d30494159bee6166c1854a
+FileChecksum: MD5: 040c96902b884772c422a0177ae2e818
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/gzjoin.c
+SPDXID: SPDXRef-item15216590
+FileChecksum: SHA1: 9c34287cf18b05b761daf6457fc5efbf501358d2
+FileChecksum: SHA256: 90b9d6c39a5fc91cf1cc9b96b025a508a8015dc502cd9374c754b44078593f57
+FileChecksum: MD5: d6c05757d17814110c93151ab5c1c910
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 2004, 2005, 2012 Mark Adler, all rights reserved version 1.2, 14 Aug 2012 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/zran.c
+SPDXID: SPDXRef-item15216591
+FileChecksum: SHA1: ca08c4c1090def97bd63166ee17ec40533c58712
+FileChecksum: SHA256: 905ea57074995619b25980b95dde0880a7853956515057bfa9122f8defb41cb5
+FileChecksum: MD5: 379d4f585e4f4a07c7a4758b7be2d043
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2005, 2012, 2018, 2023, 2024, 2025 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/examples/zran.h
+SPDXID: SPDXRef-item15216592
+FileChecksum: SHA1: f69c566361e67a9ee0f8ad75c02f99c538ea2c63
+FileChecksum: SHA256: 2973457f2b138ab99e2287d1df13c38250fbcf2229c48a81bfa229945e36cf0e
+FileChecksum: MD5: 4389e348487be9963e654dbfbbe74378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2005, 2012, 2018, 2023, 2024, 2025 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/.gitignore
+SPDXID: SPDXRef-item15216593
+FileChecksum: SHA1: 478d5752760d5b5efd8cdc6c6b4743a04bb7abad
+FileChecksum: SHA256: 8377ded75395e91f2fac95c0b338b15b143fa37340f752876ba87708b9a4a473
+FileChecksum: MD5: b4651277bff8603ec9ceb4bbd5644bd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/treebuild.xml
+SPDXID: SPDXRef-item15216594
+FileChecksum: SHA1: bbc01a342f69973a62dba3cda3fd785357031c68
+FileChecksum: SHA256: b3664505bf6cef554df70c4242e7ecf6f2baf3a2f38153d9f06e3536d8820fed
+FileChecksum: MD5: bd133bc4fc75b5db719abc2f891d2104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/add_subdirectory_exclude_test.cmake.in
+SPDXID: SPDXRef-item15216596
+FileChecksum: SHA1: 889e0c0494c921a5dfcf2883129245bc77703213
+FileChecksum: SHA256: 65e8cb60e88a985296928aabe92d27498c60197582ef8aba790dae8ecd6242f0
+FileChecksum: MD5: 716014863eb2d240624c700936b70b8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/example.c
+SPDXID: SPDXRef-item15216597
+FileChecksum: SHA1: 879a22062682b75a221aa44aca706981314e1a26
+FileChecksum: SHA256: be1b050aad808cdb016c01f42568d3a62ee37dd7b2b56bef0ade21be8d9fee0d
+FileChecksum: MD5: b2ce1f7ea85a154ebd22b857e89695d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/infcover.c
+SPDXID: SPDXRef-item15216598
+FileChecksum: SHA1: 29bf18dea7b7581066fe7bf28bd7e050fc563b5d
+FileChecksum: SHA256: 37718912b22c68942a469f971cbb47500d24dc4f6258db271edd417f0eb69a5e
+FileChecksum: MD5: bc79c4abe99af8f887df7a53d5e0a795
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2011, 2016, 2024 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/add_subdirectory_test.cmake.in
+SPDXID: SPDXRef-item15216599
+FileChecksum: SHA1: b4078e974858310f87fba044a1e5d228c1541492
+FileChecksum: SHA256: 78630ce2066ffa83daba62fe5ff52ff76f99d0d3d04004dd033ed8f513ebdcf4
+FileChecksum: MD5: c49b10e4bb19fb22d615faaddb570ff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/find_package_wrong_components_test.cmake.in
+SPDXID: SPDXRef-item15216600
+FileChecksum: SHA1: 01cc4f1799a59c42d4acf5bc04738762d5e9d373
+FileChecksum: SHA256: 443f29260bffcc0ea6c4bd6a8317d140ed3e68dde932e51641f1dc87f5f86f78
+FileChecksum: MD5: 5ece03f9d621cd7a7db43a8e8876adde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/find_package_test.cmake.in
+SPDXID: SPDXRef-item15216601
+FileChecksum: SHA1: cf9eae61dbb4f4ff65434f22fd00721c94ac5f4c
+FileChecksum: SHA256: 1ab576b2f5ba55419589ca56e11350054c853cb1e77b632a30924e38d0b4a72a
+FileChecksum: MD5: d0f1b587200ac332c71c989355b41d74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/CMakeLists.txt
+SPDXID: SPDXRef-item15216602
+FileChecksum: SHA1: 1d3256e46133cabc3c6b6b0b7686434bdfbe1594
+FileChecksum: SHA256: 184facda32c5ce3b52f308781f18eafb805c5099981aa5bb1071123576e9d1c1
+FileChecksum: MD5: 31a15f3cec9ce61c80def547da6bd016
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/minigzip.c
+SPDXID: SPDXRef-item15216603
+FileChecksum: SHA1: 58150eabad10857b28e1c729fb40b269bcccd6f9
+FileChecksum: SHA256: 203b1a4623a11021f4b64c5f6b6a4addc1bcefac694cd48cac71ccce35d82c1d
+FileChecksum: MD5: f267960fc75b613838491d96ec217656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/test/find_package_no_components_test.cmake.in
+SPDXID: SPDXRef-item15216604
+FileChecksum: SHA1: aee2b35d65713bb9c5488654cfcb7c382dd984f7
+FileChecksum: SHA256: 1f1f932d46c04688ca05b8fba2c55e458eac9404e6ce6f78e1c6a18f198052d0
+FileChecksum: MD5: a617237e5a8306f8c7e3850003ad45d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/gzlib.c
+SPDXID: SPDXRef-item15216605
+FileChecksum: SHA1: 5efe13739c9c2caeaf0d0c39a8b8b59af5d18acc
+FileChecksum: SHA256: 7e88913e85516df7bbad32b6aae4070fcace503d5b62fc25de5830a1e9b2ec25
+FileChecksum: MD5: 0c862c8274147cbf83c1c843d9bd1525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 2004-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/amiga/Makefile.pup
+SPDXID: SPDXRef-item15216607
+FileChecksum: SHA1: 79461cdcf8eda434edca3c32781982d2082af5fe
+FileChecksum: SHA256: a65cb3cd40b1b8ec77e288974dd9dc53d91ed78bbe495e94ccc84ddd423edf1f
+FileChecksum: MD5: f16cd4621f5561cf147b5e56a8af1946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1998 by Andreas R. Kleinert </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/amiga/Makefile.sas
+SPDXID: SPDXRef-item15216608
+FileChecksum: SHA1: 64787face2d527df6c78ba8754eb54c53dda6ac2
+FileChecksum: SHA256: 0e63cf88b505a1a04327bb666af3a985c5e11835c0c00aed4058c0dcc315d60e
+FileChecksum: MD5: 315c9e3e7dd1d24aeb9d6bc55b7de5fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Jean-loup Gailly Osma Ahvenlampi <Osma.Ahvenlampi@hut.fi> Amiga, SAS/C 6.56 & Smake </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/inftrees.c
+SPDXID: SPDXRef-item15216609
+FileChecksum: SHA1: 81d7febf529f3c5565924433863ff2725776f561
+FileChecksum: SHA256: 64fc6aeea744510253a22f8b0611fcefa970458224a41a1649f5e0db340af8fe
+FileChecksum: MD5: dd1a32d362660e00659a1924f364d331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Mark Adler
+copyright[] =
+Copyright 1995-2026 Mark Adler ";
+copyright string in the executable of your product. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/watcom/watcom_f.mak
+SPDXID: SPDXRef-item15216611
+FileChecksum: SHA1: 1a6af1350f3ffbbff44273a7b661563f095b3234
+FileChecksum: SHA256: 7e039b912f9cffaa40835281430bb284fa9042b0a0d12f6b34700a06bca6576e
+FileChecksum: MD5: 6f80451b702a08fa8d149161e1d75313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/watcom/watcom_l.mak
+SPDXID: SPDXRef-item15216612
+FileChecksum: SHA1: e1deb6874b6162d2607dff14c2fccb7a37ce97b0
+FileChecksum: SHA256: d11b4064604a034725860e63e3f6d347056372e4b1675b183e20a93533b20cc9
+FileChecksum: MD5: f6a102e1a91215f0e249b266053e9956
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/os400/zlibfree.rpgle
+SPDXID: SPDXRef-item15216614
+FileChecksum: SHA1: f4661477cdb9b6c440a94b61c48950fbda03ad66
+FileChecksum: SHA256: 300074de44ad4d6a50aaeab33b0e48e0c92c628463e5595b521640cbe0e8a5a3
+FileChecksum: MD5: 692f83bda568755b13807b603242ff62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/os400/zlibfixed.rpgle
+SPDXID: SPDXRef-item15216615
+FileChecksum: SHA1: 73ce6c3ec749696aa00c4952adce86cafdd527a7
+FileChecksum: SHA256: 28d52db88bc2f7adfa904d88608ee155a11ab6d199e4d3b3a3d55c916cc13e2a
+FileChecksum: MD5: 1566a11a631af1b91aea188516cf7739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/os400/bndsrc
+SPDXID: SPDXRef-item15216616
+FileChecksum: SHA1: 23971465d8ada64d13bc3b21fcd1d9ad1e221c93
+FileChecksum: SHA256: 889258a28ee9cc2791169928307acd647c38c52956f73b1738feca86a047c6f6
+FileChecksum: MD5: 85fd40cf547700ae0e9fa9f45412f390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/os400/README400
+SPDXID: SPDXRef-item15216617
+FileChecksum: SHA1: 7aeafd0016153d959e50f2e47839b00604f76f16
+FileChecksum: SHA256: bf36cdf0d0ac48b94d109610ca2aba31c13cfecd781609d9fd18f7565aee7f38
+FileChecksum: MD5: ec65c5e98fe5c2eb4a1672429036e20b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/os400/make.sh
+SPDXID: SPDXRef-item15216618
+FileChecksum: SHA1: 7f6536f56ef060cd2e95d3c66b0f3abab20b4977
+FileChecksum: SHA256: 82219263a11c735719834f0ae0d7812c72c238b5133f7a2028725b2a8261a3ec
+FileChecksum: MD5: 87cce4a1d8932f496cdfecced0e097f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright, "Copyright (C) 1995-2026 Jean-Loup Gailly, Mark Adler. OS/400 version by P. Monnerat.")' >> os400.c make_module OS400 os400.c LINK= # No need to rebuild service program yet. MODULES= </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zlib.h
+SPDXID: SPDXRef-item15216619
+FileChecksum: SHA1: 43a5f2a183fab34448814a9a61f435cf53be48be
+FileChecksum: SHA256: 61831d68c3be2ef33dc82620ace27c2900a0eb9198b47aee22fce2d1b4d0e74a
+FileChecksum: MD5: 9473557fb2ccb49b268419065a972a88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly and Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/msdos/Makefile.tc
+SPDXID: SPDXRef-item15216621
+FileChecksum: SHA1: 98e97dcbaf0e7da0531f7a0367b052adc382fb29
+FileChecksum: SHA256: 2ae12ee2a3e62f7c5a0520d0fbe4adee772bc07fe816002b07ccb43db3daa76a
+FileChecksum: MD5: b8ec8ac0dac9fe62dd4934fb4b9f772c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/msdos/Makefile.emx
+SPDXID: SPDXRef-item15216622
+FileChecksum: SHA1: 2cf0c4a2b98fc59c63bc5daee5d26e26dc15c81e
+FileChecksum: SHA256: c749d6ec7f88e8e639d4f03bdbdcbbe9d1c304210be4c4be621ceb22961d3d64
+FileChecksum: MD5: bcd5df6ee3272ea5a3a17feb90ad148d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-1998 Jean-loup Gailly. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/msdos/Makefile.msc
+SPDXID: SPDXRef-item15216623
+FileChecksum: SHA1: 39f6df7982b02e1c8b72298c6cc58bf02d9d9f77
+FileChecksum: SHA256: 0e021a6f42212415b060e4ad468eb415d0a8c1f343137fb9dff2cb8f9ead3027
+FileChecksum: MD5: 2a7a661ce2d463e3876704786fd8dfdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/msdos/Makefile.dj2
+SPDXID: SPDXRef-item15216624
+FileChecksum: SHA1: fa03747052dc066a95e23f99747a8bcba66f5c0f
+FileChecksum: SHA256: 45e24acb4fe34521378ae86a43a68f11b0579e7f864659d099a7d36e87d277dd
+FileChecksum: MD5: 6e4d2ccab39d66ac8dddba647a69bcac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-1998 Jean-loup Gailly. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/msdos/Makefile.bor
+SPDXID: SPDXRef-item15216625
+FileChecksum: SHA1: 85d42a140e556d3b659f7e26c834b5574ea51754
+FileChecksum: SHA256: 292ab363f7ffbc4ae84d37cd9bdffd2dac1003bee52d223a8489844870f20702
+FileChecksum: MD5: 80adf0a73c836697ef02cd8cc19733cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/crc32.h
+SPDXID: SPDXRef-item15216626
+FileChecksum: SHA1: 083ae032c7ce5cde8a3324c4887e88d3bb667e32
+FileChecksum: SHA256: 9a2223575183ac2ee8a247f20bf3ac066e8bd0140369556bdbdffc777435749e
+FileChecksum: MD5: 0ce0ac9394905aa53ed0a915620d9e5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/uncompr.c
+SPDXID: SPDXRef-item15216627
+FileChecksum: SHA1: 54460f8950bbfa0f2e648dcaef07151db1c1e2e0
+FileChecksum: SHA256: 953f5381650838d507b01499790bd64524433ea6ea29ea9325bf542af10cfe7d
+FileChecksum: MD5: c9652fd685e60df0b458b6573ac22f18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly, Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/INDEX
+SPDXID: SPDXRef-item15216628
+FileChecksum: SHA1: 84bc0b159a1ed1901e1ff800fa37865703a89c23
+FileChecksum: SHA256: ecbca9833dc89a4d725eff611e7f4e6a97f70451dda8e1f8c571418ec27c71e7
+FileChecksum: MD5: 219393d3ad845e13fd6e02f4b4f9b76b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Perl-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/qnx/package.qpg
+SPDXID: SPDXRef-item15216630
+FileChecksum: SHA1: b50811679c6111acae09d086cac4ff36a61a2328
+FileChecksum: SHA256: 8da349f2b2331b954c07ac88969c0dfea5d168635a87db0fc70ce6272fda3cd1
+FileChecksum: MD5: 4088a7a567f3d08481107d839f1278a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright>No License</QPM:ReleaseCopyright> QPM:ReleaseDescription> </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/CMakeLists.txt
+SPDXID: SPDXRef-item15216631
+FileChecksum: SHA1: abfc05c24ebfb8b5121ca9dba67b0cd959951438
+FileChecksum: SHA256: cbfcb39ed5c25641ae1dff24c22f964d4ac9b0b2352048ab130d442ae2c6108a
+FileChecksum: MD5: 1f5fea7c7b4b28687c6916b12d18a675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: DOC
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zconf.h
+SPDXID: SPDXRef-item15216632
+FileChecksum: SHA1: cc6d7670406cb29afa25269ee2f8a86e31200ada
+FileChecksum: SHA256: cb7c2c84211473b4699223edd363d3207b43b9578e739b5bf638f42204ea6e0f
+FileChecksum: MD5: fece7a941eb804d37ef0f6e3e74c1415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly, Mark Adler
+copyright z_deflate_copyright define get_crc_table z_get_crc_table ifndef Z_SOLO define gz_error z_gz_error define gz_intmax z_gz_intmax define gz_strwinerror z_gz_strwinerror define gzbuffer z_gzbuffer define gz
+copyright,"INCOPY") endif </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/configure
+SPDXID: SPDXRef-item15216633
+FileChecksum: SHA1: 0df87989f5de181684266b27242c3ea42ccf6fae
+FileChecksum: SHA256: 661ff4fff1884fb7f77249d566974ca5d3314695c3a00a9cb0728bad4dc726f1
+FileChecksum: MD5: 1fd3268bfd232d3f2685bdd8715123ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zlib.3.pdf/zlib.3
+SPDXID: SPDXRef-item15216636
+FileChecksum: SHA1: 896c7bcadc8d49d3b89593cbed56a1ca299fb3ef
+FileChecksum: SHA256: 8f8148004e19b1d5c0a50b3b0191d1e21fdb9c04e2a2471ed9c10b2f4d8b5060
+FileChecksum: MD5: 6edade44a8e7daa55f63cbabdc21b0d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly and Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/crc32.c
+SPDXID: SPDXRef-item15216637
+FileChecksum: SHA1: 1a59610d26c7bd16c98ec576ffeac7e034398c20
+FileChecksum: SHA256: da37f3483e77c20f64c28cf55d62d7bed9d62af33eb401be906835d84539b9c9
+FileChecksum: MD5: 44e9463cf5b190f92e858df436ee292c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/trees.c
+SPDXID: SPDXRef-item15216638
+FileChecksum: SHA1: 16bb48ed7a008390ddb779ce681e6db5ba495fe4
+FileChecksum: SHA256: a16217d5ea6d8342ff08afe5207b1dab620f05610e121dda55b4f9aae9de4f68
+FileChecksum: MD5: 7838e94ab10457680eff72670983949a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly detect_data_type() function provided freely by Cosmin Truta, 2006 </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/trees.h
+SPDXID: SPDXRef-item15216639
+FileChecksum: SHA1: 5d8a9c42f902d2418a7e63b539c0f319373e9400
+FileChecksum: SHA256: bb0a9d3ca88ee00c81adb7c636e73b97085f6ef1b52d6d58edbe2b6dc3adeb4d
+FileChecksum: MD5: 51fdcb3e2ccf60ca13c06920c89296a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/infback.c
+SPDXID: SPDXRef-item15216640
+FileChecksum: SHA1: 89470be5dc8162c9552bde217f7ab29bff229c66
+FileChecksum: SHA256: 9f05ca3bfe4e27e9b08418fd02eeb48d63daefd7d2d90c80f7dca5e3b5c305d6
+FileChecksum: MD5: 9b542ec0f2fedb285450a130eafa3d43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zutil.c
+SPDXID: SPDXRef-item15216641
+FileChecksum: SHA1: 14e3567460325431dcf704bcc3f72c6db171d263
+FileChecksum: SHA256: 04303a4d607958905f0c036aeca43d14218d01752e6c444fdbeb94983912ec38
+FileChecksum: MD5: ed670bff1e4e88043ca50e387d555848
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/doc/crc-doc.1.0.pdf/crc-doc.1.0
+SPDXID: SPDXRef-item15216645
+FileChecksum: SHA1: 5e4ab0a31efdcf9edb26307dfc7328fc3d15f4b8
+FileChecksum: SHA256: c9f50101e7826d9f16e8704a04c88809fc1b4c3604390ec0fec12f246faa2beb
+FileChecksum: MD5: 6534b78a008d37c83303836545663a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/doc/rfc1951.txt
+SPDXID: SPDXRef-item15216646
+FileChecksum: SHA1: b13d37ad6b3855f3a2eaf6c325eddaa7815355b0
+FileChecksum: SHA256: 5ebf4b5b7fe1c3a0c0ab9aa3ac8c0f3853a7dc484905e76e03b0b0f301350009
+FileChecksum: MD5: fe89c9b2d3b621452c4f868590635c5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1996 L. Peter Deutsch </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/doc/txtvsbin.txt
+SPDXID: SPDXRef-item15216647
+FileChecksum: SHA1: 9ac14f19bcb6b03706f67d771580bd8005c05445
+FileChecksum: SHA256: d1549fb75137f03102798f70fd34ff76285e717ddd520dd82274c1c0510eacf0
+FileChecksum: MD5: b70e887cd227fcbba8b3c471e93c15c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/doc/rfc1952.txt
+SPDXID: SPDXRef-item15216648
+FileChecksum: SHA1: b2346a9c1e9cd011370595a292154ca83eff4ddb
+FileChecksum: SHA256: 164ef0897b4cbec63abf1b57f069f3599bd0fb7c72c2a4dee21bd7e03ec9af67
+FileChecksum: MD5: 7c4ee539faa6c908c3860588df424be1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1996 L. Peter Deutsch </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/doc/algorithm.txt
+SPDXID: SPDXRef-item15216649
+FileChecksum: SHA1: 2982720555efbdef0af7039a721b2fd7b064512c
+FileChecksum: SHA256: 3b29f6d9dd223a02ec9fd155ee9b6d01e7f6f4b25e84b19988211fca035bfaca
+FileChecksum: MD5: fe09a744a2373d2254ea9026ec77af8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/doc/rfc1950.txt
+SPDXID: SPDXRef-item15216650
+FileChecksum: SHA1: 58f11c3e7778ca30e9c9330ab248107371429dd8
+FileChecksum: SHA256: 8f0475a5c984657bf26277f73df9456c9b97f175084f0c1748f1eb1f0b9b10b9
+FileChecksum: MD5: c9680de1a6b8939e16fd5e2a4f4785b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1996 L. Peter Deutsch and Jean-Loup Gailly </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zlib.pc.in
+SPDXID: SPDXRef-item15216651
+FileChecksum: SHA1: 012d3f0d6add54730b98c2de420b9b36e169d310
+FileChecksum: SHA256: b40b72f1726380f0575283b6a4a4bec781d4d3d994638b490a10b3156a10f508
+FileChecksum: MD5: 97caaeb67633e91368878b2da8a9175c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/make_vms.com
+SPDXID: SPDXRef-item15216652
+FileChecksum: SHA1: f59096515963ba6c6921ff875712338dfe04c9ed
+FileChecksum: SHA256: 14ed54bdd391c1648cedfb69d8a73a26dcc7f1187d59b0f18d944b7665cec85b
+FileChecksum: MD5: fc60183e7a9e7d4504888eaf7a938aa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zlib.pc.cmakein
+SPDXID: SPDXRef-item15216653
+FileChecksum: SHA1: ecfeb97aab76639bf8ac983f3d1870b2305d9628
+FileChecksum: SHA256: f557e63c059ed4fbee21d387d87b1173a78fcf2e460922b6c9c7ef199f8e14b1
+FileChecksum: MD5: 4800b555c1a3ec2e9a537f69d2cceaf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/VisualC.txt
+SPDXID: SPDXRef-item15216655
+FileChecksum: SHA1: ba666fb015a257ab0182f10bc20409a2ec61169f
+FileChecksum: SHA256: 9ec0babd46eaa012371dee2d3a8a55d9c7130f7895512c3371c737e4a7f6a997
+FileChecksum: MD5: 41825008c400d365b2a660175bec4ad1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/README-WIN32.txt
+SPDXID: SPDXRef-item15216656
+FileChecksum: SHA1: 75023a4d00d3c80beca0cb6fb7aec3b1164ab95a
+FileChecksum: SHA256: 6f098cb134739e6c9d51fd4652b049affd9f36eb35bd7cd596a977d6d7b4841d
+FileChecksum: MD5: 5d7f661db67ac61c08c5e2d9176c4984
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright notice:
+(C) 1995-2026 Jean-loup Gailly and Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/zlib.def
+SPDXID: SPDXRef-item15216657
+FileChecksum: SHA1: cd96ee3bb3a94447990b3664bbf6c0efd5aa42aa
+FileChecksum: SHA256: 4495a609d288788bb43efc74d6dc7261ecf184af86e4ef8c63a877e2318c8fa9
+FileChecksum: MD5: ddc09d38a749d02ce58ae011ae8632bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/Makefile.gcc
+SPDXID: SPDXRef-item15216658
+FileChecksum: SHA1: af08235556ddc33d9cbfb6fc040626b5519c97e8
+FileChecksum: SHA256: 71135ef48a9fcea23c3946b5b7f41ae866e248b1c1e20fd580045a593054c39f
+FileChecksum: MD5: 3790bb02f171292e50545b67fb547e0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2026 Jean-loup Gailly. </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/Makefile.msc
+SPDXID: SPDXRef-item15216659
+FileChecksum: SHA1: 837e762f8da5193919501272316da290d1c05643
+FileChecksum: SHA256: 235529bd529d4690d5d4b7871fdd0a1f118f2fe18862cbdec5f5ac674c55a60d
+FileChecksum: MD5: 4b7373caa4e587e84d56b3719bfcc288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/DLL_FAQ.txt
+SPDXID: SPDXRef-item15216660
+FileChecksum: SHA1: 0484f429d152cb73a61d359e66db04b269345303
+FileChecksum: SHA256: 9000c1acd517114f302abd9530f9d403e8f9353ec924c89cd539a2d8aaec2a4b
+FileChecksum: MD5: c60b7bd930fccefd6e9e57cc17a0f0b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/zlib-cmake.rc
+SPDXID: SPDXRef-item15216661
+FileChecksum: SHA1: e61890d93384ffb8ecbf0c858f694dc7c1df002e
+FileChecksum: SHA256: 7502ec8420bcad3ad3511d22668c3807bc6bf9158a733958acd9e92edac71bd6
+FileChecksum: MD5: 0cce130b5513980b0d4e8384ef386eff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright",	"(C) 1995-2026 Jean-loup Gailly & Mark Adler\0" ifdef _DEBUG VALUE "OriginalFilename",	"libzd.dll\0" else VALUE "OriginalFilename",	"libz.dll\0" endif VALUE "ProductName",	"zlib\0" VALUE "ProductVersion",	ZLIB_VERSION "\0" VALUE "Comments", "For more inf </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/Makefile.bor
+SPDXID: SPDXRef-item15216662
+FileChecksum: SHA1: 8ca17ea57086e141d91d4d6fa78070c9a777267e
+FileChecksum: SHA256: 7d73a0d2c3e38b7c610bbc9c22f683a4fe1ab9b8b65649a3a8ac4ff7fcc14ba6
+FileChecksum: MD5: 63cdfd6798d79c3d181b59daa84c5df0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/win32/zlib1.rc
+SPDXID: SPDXRef-item15216663
+FileChecksum: SHA1: 9f18977635e75a25572b74ec64b844700181c87f
+FileChecksum: SHA256: d7a66485b4837b48dbbf8b4adcc71682591a1eb5d6d4c8f44b8efb7ace790a15
+FileChecksum: MD5: c9060db0a7ef4fcd8550854eb36f2d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright",	"(C) 1995-2026 Jean-loup Gailly & Mark Adler\0" VALUE "OriginalFilename",	"zlib1.dll\0" VALUE "ProductName",	"zlib\0" VALUE "ProductVersion",	ZLIB_VERSION "\0" VALUE "Comments", "For more information visit https://www.zlib.net/\0" END END BLOCK "VarFileIn </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/adler32.c
+SPDXID: SPDXRef-item15216664
+FileChecksum: SHA1: 8dda484bcdf04581272a722de2a350f81eee88ca
+FileChecksum: SHA256: 9cd1443a24ff2a3053961695bd432035c58347386a420d3388232376ebabe211
+FileChecksum: MD5: cea51e08d9b176c6bf8b5820169d4102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Zlib-possibility
+FileCopyrightText: <text> Copyright (C) 1995-2011, 2016 Mark Adler </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/ChangeLog
+SPDXID: SPDXRef-item15216665
+FileChecksum: SHA1: e4e6ccf66431523d642bfc3d8f10932ad8523bfa
+FileChecksum: SHA256: 483b3b6ca4c8d8b5f3bd4a8f49b94354e0957123d82b33a4ea4903de4915d56c
+FileChecksum: MD5: 15d930b65b43b3c23bf046571111262a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright dates on modified source files Update trees.c to be able to generate modified trees.h Exit configure for MinGW, suggesting win32/Makefile.gcc Check for NULL path in gz_open [Homurlu] </text>
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/inffixed.h
+SPDXID: SPDXRef-item15216666
+FileChecksum: SHA1: ed71a8dfc97ea8e43aef7ee05a1b0a7decaada88
+FileChecksum: SHA256: fd7c4b1dbdacb283421d0675744aaecda44e840e183b5131448bac94564f6adb
+FileChecksum: MD5: 93f7b4524a2a6c3751e774dca975bf2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/zlibConfig.cmake.in
+SPDXID: SPDXRef-item15216667
+FileChecksum: SHA1: 9caa6452d200fcdf47c0fea396cb774cd7ad7a46
+FileChecksum: SHA256: 7205c5c215a62f7f1ceea97a731e7524dff74e0e1848fcedcce363dbb8d496c4
+FileChecksum: MD5: 684e2a6aadf06e48d9b439d2f86761a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: madler-2026-09-23.zip/zlib/BUILD.bazel
+SPDXID: SPDXRef-item15216668
+FileChecksum: SHA1: b0609dabb5a749f30c0aa4f96781bd2744f31214
+FileChecksum: SHA256: 67f3be3604f659c45392e84e59e4c6ba975877d2791e5e7b189b487e3520532b
+FileChecksum: MD5: 2e0bd2a47a8aeb3023b573c3febd7dd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-fossology-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY </text>
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-MIT-CMU-style
+LicenseName: MIT-CMU-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-fossology-Perl-possibility
+LicenseName: Perl-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Zlib-possibility
+LicenseName: Zlib-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-file.LICENSE
+LicenseName: See-file.LICENSE
+ExtractedText: <text> License by Nomos. </text>
+
